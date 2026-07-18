@@ -1,0 +1,174 @@
+{
+  "channel_url": "https://www.youtube.com/@pinetrades/videos",
+  "videos": [
+    {
+      "id": "m52ahgWr4Nc",
+      "title": "This Indicator Uses Hidden Support & Resistance For Accurate  BUY SELL Signals",
+      "url": "https://www.youtube.com/watch?v=m52ahgWr4Nc",
+      "duration": 559,
+      "view_count": 2753,
+      "upload_date": "20260411",
+      "description": "Discover how Liquidity Clusters Magnitude [LuxAlgo] helps reveal hidden support and resistance by measuring wick rejections and real liquidity pressure \ud83d\udcca. In this breakdown, you\u2019ll see how Bullish Magnitude, Bearish Magnitude, and the Trend Metric can be used to spot reversals, confirm trend strength, and identify strong reaction zones with more confidence \u26a1. The video also covers the key settings, including window size, smoothing, and magnitude threshold, plus how to combine the tool with market structure, volume, and price confirmation for smarter trade execution \ud83d\udcc8. ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": "You know those spots where prices keep topping on a level with long wicks, but they never really break through it? That is usually not random. That is liquidity. It's the market showing you where buyers or sellers are stepping in and defending a zone. The problem is most traders see the reaction, but they do not know how strong it really is. That is where the liquidity clusters magnitude by Lux Algo comes into play. This tool measures how intense those support and resistance reactions are by counting [music] wick touches at key liquidity levels inside a rolling window. So, instead of guessing whether a level is really important or not, you get a cleaner, more data-driven read on where reaction and rejection is actually building. Now, we're going to build this on TradingView, which is the platform I'm going to be using for this video. If you haven't signed up yet, there's going"
+    },
+    {
+      "id": "HdSeEA-7_-s",
+      "title": "The Indicator That Uses Math to Predict The Future of Price",
+      "url": "https://www.youtube.com/watch?v=HdSeEA-7_-s",
+      "duration": 648,
+      "view_count": 11418,
+      "upload_date": "20260405",
+      "description": "Most traders lose by aiming for fantasy targets instead of the most likely move \ud83d\udcca In this strategy, the Monte Carlo Expected Move Distribution [LuxAlgo] helps map where price is statistically likely to trade using simulated future paths, so targets and stops are based on probability rather than hope. The setup pairs that projection with a 150 EMA using SMA + Bollinger Bands smoothing to spot controlled pullbacks in trend. Longs and shorts are taken after rejection or engulfing confirmation, with take-profit placed inside the expected move zone and stops aligned with the tail areas. A smart way to trade structure, volatility, and realistic expectations \ud83c\udfaf ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": "You know what gets traders in trouble? They set targets that look great on the chart, but the move was never likely in the first place. Price might get there once in a while, but most of the time the target is either too far or the stop too wide, and the whole trade is built on hope. That is where this indicator helps. The Monte Carlo Expected Move Distribution by Lux Algo uses Monte Carlo simulation and geometric Brownian motion to generate hundreds of possible future paths, then builds a possibility distribution that shows where price is statistically most likely to trade over your chosen horizon. So, instead of asking where will price go, it helps you ask a better question, which is where is price most likely to be. We're going to build this on TradingView, which is the"
+    },
+    {
+      "id": "GkOsgQO7K20",
+      "title": "WMMO Indicator Explained: Trend Confirmation, Divergence & Entries \ud83d\udd0d",
+      "url": "https://www.youtube.com/watch?v=GkOsgQO7K20",
+      "duration": 683,
+      "view_count": 5378,
+      "upload_date": "20260327",
+      "description": "Discover how the Weighted Multi-Mode Oscillator (WMMO) gives a smarter view of momentum by weighting price through volume, volatility, momentum, or a hybrid blend \ud83d\udcca\u26a1 This breakdown covers how to set up the indicator, choose the right smoothing and normalization mode, and read key zones like 80, 50, and 20 with more confidence. You\u2019ll also see practical ways to use it for trend confirmation, mean reversion, breakout validation, and divergence spotting \ud83d\udd0d Whether you trade trends or ranges, this tool helps filter weak signals and improve context-based decision-making in live markets. \ud83e\udde0\ud83d\udcc8 ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": "You know the problem with most oscillators? They look clean, but they treat every bar the same. A tiny low volume candle gets the same respect as a huge expansion candle with real conviction behind it. That is exactly why so many traders get trapped by weak signals. The Weighted Multi Mode Oscillator or WMMO fixes that by changing how momentum is measured. Instead of using a flat one-size-fits-all input, it lets you weight each bar by volume, volatility, momentum, or a hybrid mix, >> [music] >> then turns the result into a bounded zero to 100 oscillator. >> [music] >> In simple terms, it gives you a smarter read on momentum because it adapts to what the market is actually doing right now. We're going to build this on TradingView, which is the platform I'm using in this video. If you haven't signed up yet and you want to follow my"
+    },
+    {
+      "id": "xILe0QoYcRQ",
+      "title": "The Most Accurate All-In-One  Price Action Trading Toolkit For 2026!",
+      "url": "https://www.youtube.com/watch?v=xILe0QoYcRQ",
+      "duration": 1342,
+      "view_count": 5140,
+      "upload_date": "20260321",
+      "description": "Master a cleaner way to read BTCUSD with the Market Structure Dashboard by Flux Charts \ud83d\udcca This walkthrough shows how to align multiple timeframes, read EMA trend, track swing highs and lows, spot HH/HL/LH/LL structure, and map bullish or bearish order blocks plus fair value gaps. It also covers liquidity sweeps, session timing, killzones, volume strength, ATR-based volatility, and higher-timeframe levels like previous day, week, and month highs and lows. The core idea is simple: trade with alignment, wait for price to react at quality zones, and use sweeps plus expanding conditions to filter weak setups and focus on high-probability entries. \ud83d\ude80 ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": ""
+    },
+    {
+      "id": "U9LYnQd7pcE",
+      "title": "This Oscillator Shows EXACTLY Where The Trend Is Reversing",
+      "url": "https://www.youtube.com/watch?v=U9LYnQd7pcE",
+      "duration": 583,
+      "view_count": 9144,
+      "upload_date": "20260309",
+      "description": "Stop spending hours on stock research. \ud83d\udcc9 I\u2019m using Intellectia.ai to automate my analysis. Their new Auto-Copy Trade feature is a total game-changer! \ud83e\udd16\u2728 Access SwingMax: https://intellectia.ai/?channelId=7&activityId=35 Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #intellectia #AIinvesting #StockMarket #PassiveIncome #SmartInvesting",
+      "opening_transcript": ""
+    },
+    {
+      "id": "89SIqgJIf0c",
+      "title": "The Secret Trading Tool That Shows Where Smart Money Is BUYING or SELLING",
+      "url": "https://www.youtube.com/watch?v=89SIqgJIf0c",
+      "duration": 411,
+      "view_count": 5312,
+      "upload_date": "20260221",
+      "description": "Some GBPJPY moves feel chaotic on the 5-minute chart\u2014until you track participation instead of just price. In this video, we break down the Smart Money Volume Index [AlgoAlpha] on TradingView and how it translates expanding vs contracting volume into a clean pressure oscillator. You\u2019ll learn the difference between Compare mode (buy vs sell interest lines) and Net mode (zero-line control flips), plus how to use high-interest zones and alerts to spot when real activity is building. We then apply it as a confirmation tool with simple pullback entries, tight invalidation, and 1.5R targets \ud83d\udcc8\u26a1\ufe0f ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": ""
+    },
+    {
+      "id": "KSNyrfrpzX0",
+      "title": "This Indicator Gives BUY & SELL Signals Only When Volume Is Real",
+      "url": "https://www.youtube.com/watch?v=KSNyrfrpzX0",
+      "duration": 634,
+      "view_count": 17129,
+      "upload_date": "20260219",
+      "description": "Tired of getting trapped by fake SuperTrend flips on BTCUSD? \ud83d\ude24 In this breakdown, we explore SuperTrend + Relative Volume (Kernel Optimized) \u2014 an advanced twist on the classic SuperTrend that filters weak breakouts using a KDE % probability engine. Instead of treating every flip equally, this tool analyzes historical break behavior and relative volume to estimate whether a move has real conviction \ud83d\udcca. You\u2019ll learn how KDE %, ATR settings, bandwidth, and thresholds work together to confirm stronger trend shifts and avoid low-quality signals. If you want cleaner entries, smarter confirmations, and fewer whipsaws, this probability-based trend filter is a game changer \ud83d\ude80 ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": ""
+    },
+    {
+      "id": "50tPPvzleD4",
+      "title": "Balanced Delta Volume Profile: The Cleanest Way to Find Real Imbalances",
+      "url": "https://www.youtube.com/watch?v=50tPPvzleD4",
+      "duration": 602,
+      "view_count": 6913,
+      "upload_date": "20260216",
+      "description": "Price spikes, stalls, and either chops for ages or snaps back and nukes late entries \u2014 the real question is where price was accepted vs rejected. \ud83d\udcca In this video, we set up Balanced Delta Volume Profile (Zeiierman) on TradingView and use it on the 15-minute chart to map fair value with way less guesswork. Instead of rewarding one-time volume explosions, it scores each price level using delta symmetry (buyer/seller balance), compression (tight trading), and durability (repeat visits). \ud83e\udde0 You\u2019ll learn to trade mean reversion inside thick acceptance zones and continuation through thin \u201ctravel\u201d zones, plus how the highlighted POC-style level helps spot re-acceptance vs rejection. \ud83d\ude80 ------ PineTrades Custom Indicator: https://www.chartprime.com/pinetrades ------ Tradingview: https://www.tradingview.com/?aff_id=116932 Where I get my music: https://bit.ly/3IwsOMm DISCLAIMER The information presented in this video is for educational and entertainment purposes only and is not financial advice. I am not a financial advisor. Forex and crypto trading is highly speculative and risky. It is only suitable for those who understand, and are willing to take on, the financial and other risks involved, and who have the resources to withstand losses that may be significantly greater than any deposits you have made. #tradingview #3XGains #tradingstrategy #TradingIndicator #TrendTrading #buysellindicator #TechnicalAnalysis #TradingStrategy",
+      "opening_transcript": ""
+    }
+  ],
+  "patterns": {
+    "sample_size": 8,
+    "duration_seconds": {
+      "min": 411,
+      "max": 1342,
+      "avg": 682.75,
+      "median": 618.0
+    },
+    "top_title_words": [
+      [
+        "THE",
+        6
+      ],
+      [
+        "INDICATOR",
+        4
+      ],
+      [
+        "THIS",
+        3
+      ],
+      [
+        "USES",
+        2
+      ],
+      [
+        "FOR",
+        2
+      ],
+      [
+        "ACCURATE",
+        2
+      ],
+      [
+        "BUY",
+        2
+      ],
+      [
+        "SELL",
+        2
+      ],
+      [
+        "SIGNALS",
+        2
+      ],
+      [
+        "THAT",
+        2
+      ],
+      [
+        "PRICE",
+        2
+      ],
+      [
+        "TREND",
+        2
+      ],
+      [
+        "TRADING",
+        2
+      ],
+      [
+        "SHOWS",
+        2
+      ],
+      [
+        "WHERE",
+        2
+      ]
+    ],
+    "hook_examples": [
+      "You know those spots where prices keep topping on a level with long wicks, but they never really break through it?",
+      "You know what gets traders in trouble?",
+      "You know the problem with most oscillators?"
+    ],
+    "recurring_patterns": [
+      "Problem-led opening that names a trading pain point in the first sentence.",
+      "Fast pivot from pain point to tool explanation using phrases like 'That is where this indicator helps.'",
+      "Single-tool focus: each video tends to center around one indicator or toolkit rather than many unrelated ideas.",
+      "Explicit chart utility language: buy/sell, trend, support and resistance, volume, price action, or reversals.",
+      "Commercial CTA is consistent and tied to the indicator page rather than a generic channel CTA."
+    ],
+    "cta_signature": "PineTrades videos consistently push viewers toward a specific indicator landing page rather than a vague subscribe CTA.",
+    "visual_style_notes": [
+      "High-contrast promise in the title and thumbnail language.",
+      "Narration explains what the viewer is seeing instead of drifting into theory too early.",
+      "Tool proof is usually shown on-chart before the CTA lands."
+    ]
+  }
+}

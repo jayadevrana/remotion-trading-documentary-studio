@@ -1,0 +1,154 @@
+{
+  "scenes": [
+    {
+      "id": "s01",
+      "normalized": "Maan lo yeh circle ek million dollars ko represent karta hai. Yeh hai das million kaisa dikhta hai. Yeh hai ek sau million kaisa dikhta hai. Aur yeh... hai ek billion. Ab zara socho: ek waqt par Jeff Bezos ki net worth is number se ek sau satrah guna zyada thi.",
+      "tts": "मान लो यह सर्किल एक मिलियन डॉलर्स को रिप्रेजेंट करता है. यह है दस मिलियन कैसा दीखता है. यह है एक सौ मिलियन कैसा दीखता है. और यह... है एक बिलियन. अब ज़रा सोचो: एक वक़्त पर जेफ बेजॉस की नेट वर्थ इस नंबर से एक सौ सत्रह गुना ज़्यादा थी."
+    },
+    {
+      "id": "s02",
+      "normalized": "Aur phir aata hai tumhara number. Shayad tum abhi koi job kar rahe ho. Wahi job jo tumhe uss raaste par chal kar mili jo tumhe bola gaya tha ki secure future dega. Tum school gaye, degree li, jo bola gaya woh sab kiya... lekin phir bhi tumhare kharche control se bahar lagte hain. Tumhe lagta hai tumhe utna pay nahi mil raha jitna milna chahiye.",
+      "tts": "और फिर आता है तुम्हारा नंबर. शायद तुम अभी कोई जॉब कर रहे हो. वही जॉब जो तुम्हे उस रास्ते पर चल कर मिली जो तुम्हे बोला गया था कि सिक्योर फ्यूचर देगा. तुम स्कूल गए लेकिन फिर भी तुम्हारे खर्चे कण्ट्रोल से बहार लगते हैं. तुम्हे लगता है तुम्हे उतना पय नहीं मिल रहा जितना मिलना चाहिए."
+    },
+    {
+      "id": "s03",
+      "normalized": "Credit card ka debt hai. Shayad student loan bhi. Shayad proper savings bhi nahi hain. Bas bills hain, pressure hai, aur yeh ehsaas ki tum hamesha piche reh rahe ho. Aur wealth? Amir banna? Woh sab ek fantasy jaisa lagta hai. Jaise woh sirf kuch khaas logon ke liye reserved ho.",
+      "tts": "क्रेडिट कार्ड का डेब्ट है. शायद स्टूडेंट लोन भी. शायद प्रॉपर सेविंग्स भी नहीं हैं. बस बिल्स हैं और वेल्थ? अमीर बनना? वह सब एक फंतासी जैसा लगता है. जैसे वह सिर्फ कुछ ख़ास लोगों के लिए रिजर्व्ड हो."
+    },
+    {
+      "id": "s04",
+      "normalized": "Millionaires ke liye. Billionaires ke liye. Khaaskar un logon ke liye jo jawani mein hi wahan pahunch gaye. Tum unhe dekh kar sochte ho: Inko luck mila. Yeh paida hi paise mein hue the. Inhone cheat kiya hoga. Inke paas connections the. Inke paas woh advantages the jo mere paas kabhi nahi the. Aur dheere dheere, tumhare sapne chhote hone lagte hain.",
+      "tts": "मिल्लीवाइरेस के लिए. बिल्लिओनाइरेस के लिए. खासकर उन लोगों के लिए जो जवानी में ही वहाँ पहुँच गए. तुम उन्हें देख कर सोचते हो: इनको लक मिला. यह पैदा ही पैसे में हुए थे. इन्होने चीट किया होगा. इनके पास कनेक्शन्स थे. इनके पास वह अडवांटागेस थे जो मेरे पास कभी नहीं थे. और धीरे धीरे"
+    },
+    {
+      "id": "s05",
+      "normalized": "Woh ghar. Woh sports car. Apne parents ka mortgage chukana. Duniya ghoomna. Azadi. Yeh sab possible lagna band ho jata hai. Aur aakhir mein tum ek sakht conclusion par pahunchte ho: game rigged hai. Hamesha se tha. Aur tum us game ke losing side par paida hue ho.",
+      "tts": "वह घर. वह स्पोर्ट्स कार. अपने पेरेंट्स का मॉर्गेज चुकाना. दुनिया घूमना. आज़ादी. यह सब पॉसिबल लगना बंद हो जाता है. और आखिर में तुम एक सख्त कन्क्लूसिओं पर पहुँचते हो: गेम रिग्गड़ है. हमेशा से था. और तुम उस गेम के लोसिंग साइड पर पैदा हुए हो."
+    },
+    {
+      "id": "s06",
+      "normalized": "Lekin kya ho agar yeh sach na ho? Kya ho agar tum isliye fase hue ho kyunki game rigged nahi... balki tumhe rules hi galat sikhaye gaye? Kya ho agar wealth ka sach mein ek equation ho? Ek pattern. Ek logic. Ek system jiske through paisa actually kaam karta hai. Kya ho agar jin sapno ko tumne chhod diya... woh impossible kabhi the hi nahi... bas tum unhe sahi tarah samajh nahi paaye?",
+      "tts": "लेकिन क्या हो अगर यह सच न हो? क्या हो अगर तुम इसलिए फसे हुए हो क्यूंकि गेम रिग्गड़ नहीं... बल्कि तुम्हे रूल्स ही गलत सिखाए गए? क्या हो अगर वेल्थ का सच में एक ेकशन हो? एक पैटर्न. एक लॉजिक. एक सिस्टम जिसके थ्रू पैसा एक्चुअली काम करता है. क्या हो अगर जिन सपनो को तुमने छोड़ दिया... वह इम्पॉसिबल कभी थे ही नहीं... बस तुम उन्हें सही तरह समझ नहीं पाए?"
+    },
+    {
+      "id": "s07",
+      "normalized": "Is video ke end tak tum paise ka ek aisa side dekhoge jo zyada log kabhi dekh hi nahi paate. Lekin pehle ek warning: yeh raasta aasaan nahi hai. Isme struggle hai. Isme uncertainty hai. Isme woh sachchaiyan hain jo school, society, aur tumhare aas-paas ke logon ne shayad tumhe kabhi batayi hi nahi. Aur har koi is raaste ke end tak nahi pahunch paayega. Lekin jo log pahunch gaye... unke liye end par paise se bhi zyada keemti cheez hoti hai. Freedom. Woh freedom jahan tumhe paise ki tension dobara kabhi nahi leni padti. Toh... kya tum abhi bhi mere saath ho? Abhi bhi yahin ho? Achha. Toh chalo waqt barbaad karna band karte hain.",
+      "tts": "इस वीडियो के एन्ड तक तुम पैसे का एक ऐसा साइड देखोगे जो ज़्यादा लोग कभी देख ही नहीं पाते. लेकिन पहले एक वार्निंग: यह रास्ता आसान नहीं है. इसमें स्ट्रगल है. इसमें अनसर्टेनिटी है. इसमें वह सच्चाइयां हैं जो स्कूल और हर कोई इस रास्ते के एन्ड तक नहीं पहुँच पायेगा. लेकिन जो लोग पहुँच गए... उनके लिए एन्ड पर पैसे से भी ज़्यादा कीमती चीज़ होती है. फ्रीडम. वह फ्रीडम जहाँ तुम्हे पैसे की टेंशन दोबारा कभी नहीं लेनी पड़ती. तोह... क्या तुम अभी भी मेरे साथ हो? अभी भी यहीं हो? अच्छा. तोह चलो वक़्त बर्बाद करना बंद करते हैं."
+    },
+    {
+      "id": "s08",
+      "normalized": "bhaag ek: Woh Jhooth Jo Tumhe Bachpan Se Bataye Gaye. Tum paise ke baare mein asal mein kya sochte ho? Kya paisa kamaya jata hai? Kya paisa virasat mein milta hai? Kya paisa buri cheez hai? Kya paisa sab kuch hai? Kya tumne zindagi ka zyada hissa iske peeche bhaagte hue nikala hai? Sach yeh hai ki paise ke baare mein tum jo bhi maante ho, usme se zyada tumhari khud ki soch nahi hai. Woh tumhare environment se aayi hai. Tumhari upbringing. Tumhara parivaar. Tumhara school. Tumhari society.",
+      "tts": "भाग एक: वह झूठ जो तुम्हे बचपन से बताये गए. तुम पैसे के बारे में असल में क्या सोचते हो? क्या पैसा कमाया जाता है? क्या पैसा विरासत में मिलता है? क्या पैसा बुरी चीज़ है? क्या पैसा सब कुछ है? क्या तुमने ज़िन्दगी का ज़्यादा हिस्सा इसके पीछे भागते हुए निकला है? सच यह है कि पैसे के बारे में तुम जो भी मानते हो वह तुम्हारे एनवायरनमेंट से आई है. तुम्हारी उपब्रिंगिंग. तुम्हारा परिवार. तुम्हारा स्कूल. तुम्हारी सोसाइटी."
+    },
+    {
+      "id": "s09",
+      "normalized": "Agar tum financial struggle wale ghar mein bade hue ho, toh ho sakta hai tumne andar hi andar maan liya ho ki tumhara future bhi waisa hi hoga. Ya phir ulta hua ho. Tumne decide kiya ho ki tum itna paisa kamaoge ki kabhi uss position mein wapas na jaana pade. Lekin dono cases mein problem ek hi hai: zyada logon ko kabhi sach mein yeh sikhaya hi nahi gaya ki paisa kaam kaise karta hai. School ne nahi sikhaya. Society ne nahi samjhaya. Aur isi wajah se wealth ke baare mein tumhari bahut si beliefs galat information par bani hui hain.",
+      "tts": "अगर तुम फाइनेंसियल स्ट्रगल वाले घर में बड़े हुए हो या फिर उलटा हुआ हो. तुमने डीडे किया हो की तुम इतना पैसा कमाओगे की कभी उस पोजीशन में वापस न जाना पड़े. लेकिन दोनों केसेस में प्रॉब्लम एक ही है: ज़्यादा लोगों को कभी सच में यह सिखाया ही नहीं गया कि पैसा काम कैसे करता है. स्कूल ने नहीं सिखाया. सोसाइटी ने नहीं समझाया. और इसी वजह से वेल्थ के बारे में तुम्हारी बहुत सी बेलिएफस गलत इनफार्मेशन पर बनी हुई हैं."
+    },
+    {
+      "id": "s10",
+      "normalized": "Isliye aage badhne se pehle humein paise ko dekhne ka tumhara pura nazariya badalna padega. Kyuki sabse bada jhooth jo tumhe bataya gaya hai, woh yeh hai: ki amir log automatically bure hote hain. Movies aur shows hamesha yahi stereotype dikhate aaye hain. Rich log corrupt hote hain, selfish hote hain, greedy hote hain, backstabbing hote hain, entitled hote hain. Aur sawaal yeh hai... kya tumne bhi is stereotype ko sach maan liya?",
+      "tts": "इसलिए आगे बढ़ने से पहले हमें पैसे को देखने का तुम्हारा पूरा नजरिया बदलना पड़ेगा. क्युकी सबसे बड़ा झूठ जो तुम्हे बताया गया है की अमीर लोग ऑटोमेटिकली बुरे होते हैं. मूवीज और शोज हमेशा यही स्टीरियोटाइप दिखाते आये हैं. रिच लोग कोर्रुप्त होते हैं और सवाल यह है... क्या तुमने भी इस स्टीरियोटाइप को सच मान लिया?"
+    },
+    {
+      "id": "s11",
+      "normalized": "Kyuki data kuch aur kehta hai. Wealth-X ki ek report ke mutabik, ultra-wealthy logon mein, jinki net worth tees million dollars ya usse zyada thi, adsath percent self-made the. Aur yeh conclusion baar baar saamne aata hai. Warren Buffett self-made. Howard Schultz gareebi mein paida hue. Oprah Winfrey gareebi mein paida hui. Jeff Bezos self-made. Elon Musk self-made. Sara Blakely self-made.",
+      "tts": "क्युकी डेटा कुछ और कहता है. वेल्थ-क्ष की एक रिपोर्ट के मुताबिक और यह कन्क्लूसिओं बार बार सामने आता है. वारेन बुफेट सेल्फ-मेड. हॉवर्ड स्कूलतज गरीबी में पैदा हुए. ओपराह विन्फ्रे गरीबी में पैदा हुई. जेफ बेजॉस सेल्फ-मेड. एलोन मस्क सेल्फ-मेड. सारा ब्लॉकेलय सेल्फ-मेड."
+    },
+    {
+      "id": "s12",
+      "normalized": "Toh aisa kya hai jo yeh log samajhte hain aur zyada log nahi samajhte? Seedha sa jawab: yeh log ek bilkul alag equation follow kar rahe the. Yeh hai woh equation jo zyada logon ko sikhayi jaati hai: money equals job se aane wali salary. Ek point ke baad, job paana hi education ka main purpose ban jata hai. Padhai karo. Qualified bano. Job lo. Repeat karo.",
+      "tts": "तोह ऐसा क्या है जो यह लोग समझते हैं और ज़्यादा लोग नहीं समझते? सीधा सा जवाब: यह लोग एक बिलकुल अलग ेकशन फॉलो कर रहे थे. यह है वह ेकशन जो ज़्यादा लोगों को सिखायी जाती है: मनी ेकल्स जॉब से आने वाली सैलरी. एक पॉइंट के बाद पढाई करो. क्वालिफाइड बनो. जॉब लो. रिपीट करो."
+    },
+    {
+      "id": "s13",
+      "normalized": "Toh ismein problem kya hai? Agar tumhara goal hai kam waqt mein bahut paisa kamaana, toh yeh equation tumhe kabhi wahan nahi le jaayegi. Kyuki ek resource hai jo paise se bhi zyada keemti hai. Aur ek baar woh chala gaya, toh kabhi wapas nahi aata. Time. Normal job mein tumhari income directly tumhare time se judi hoti hai. Agar tum bees dollars per hour kama rahe ho aur hafte ke chalis ghante kaam karte ho, toh tumhe ek million kamaane mein lagbhag chaubees saal lag jayenge. Aur woh bhi taxes se pehle. Rent se pehle. Khane se pehle. Emergency expenses se pehle. Aur inflation se pehle jo chup-chaap tumhare paise ki value kha jaata hai.",
+      "tts": "तोह इसमें प्रॉब्लम क्या है? अगर तुम्हारा गोआल है कम वक़्त में बहुत पैसा कमाना क्युकी एक रिसोर्स है जो पैसे से भी ज़्यादा कीमती है. और एक बार वह चला गया टाइम. नार्मल जॉब में तुम्हारी इनकम डायरेक्टली तुम्हारे टाइम से जुडी होती है. अगर तुम बीस डॉलर्स पैर ऑवर कमा रहे हो और हफ्ते के चालीस घंटे काम करते हो और वह भी टैक्सेज से पहले. रेंट से पहले. खाने से पहले. इमरजेंसी एक्सपेंसेस से पहले. और इन्फ्लेशन से पहले जो चुप-चाप तुम्हारे पैसे की वैल्यू खा जाता है."
+    },
+    {
+      "id": "s14",
+      "normalized": "Haqeeqat yeh hai ki us salary par millionaire banna zyada tar sirf budhape mein possible hota hai, jab tum apna bahut saara time trade kar chuke hote ho. Aur sabse buri baat? Tumne apna waqt extraordinary paison ke liye bhi trade nahi kiya. Toh phir tum phir se wahi sawaal poochte ho: aakhir kaise self-made millionaires aur billionaires apni twenties, thirties aur forties mein ban jaate hain? Unmein kya alag hota hai? Jawab simple hai: woh paise ko tumse better samajhte hain.",
+      "tts": "हकीकत यह है की उस सैलरी पर मिलियनेयर बनना ज़्यादा तर सिर्फ बुढ़ापे में पॉसिबल होता है और सबसे बुरी बात? तुमने अपना वक़्त एक्स्ट्राऑर्डिनरी पैसों के लिए भी ट्रेड नहीं किया. तोह फिर तुम फिर से वही सवाल पूछते हो: आखिर कैसे सेल्फ-मेड मिल्लीवाइरेस और बिल्लिओनाइरेस अपनी ट्वेंटीज उनमें क्या अलग होता है? जवाब सिंपल है: वह पैसे को तुमसे बेटर समझते हैं."
+    },
+    {
+      "id": "s15",
+      "normalized": "bhaag do: Paisa aur Wealth ka Asli Sach. Ab yahan dhyan se suno. Paison ka peecha karna band karo. Capitalist society mein rules bahut simple hain: tumhe utna pay milta hai jitni value market ko lagti hai ki tum create kar rahe ho. Aur market kaun hai? Har koi. Tum. Tumhare dost. Tumhara parivaar. Tumhare neighbors. Tumhara desh. Market bas log hain jo decide kar rahe hote hain ki kisi cheez ki unke liye kya keemat hai.",
+      "tts": "भाग दो: पैसा और वेल्थ का असली सच. अब यहाँ ध्यान से सुनो. पैसों का पीछा करना बंद करो. कैपिटलिस्ट सोसाइटी में रूल्स बहुत सिंपल हैं: तुम्हे उतना पय मिलता है जितनी वैल्यू मार्किट को लगती है की तुम क्रिएट कर रहे हो. और मार्किट कौन है? हर कोई. तुम. तुम्हारे दोस्त. तुम्हारा परिवार. तुम्हारे नेइबोर्स. तुम्हारा देश. मार्किट बस लोग हैं जो डीडे कर रहे होते हैं की किसी चीज़ की उनके लिए क्या कीमत है."
+    },
+    {
+      "id": "s16",
+      "normalized": "Log complain karte hain ki football players overpaid hote hain. Lekin football players millions tabhi kama pate hain jab football ke liye massive demand ho. Logon ko us sport mein value dikhni chahiye. Unhe tickets kharidne chahiye. Streams. Merchandise. Experiences. Aur jab demand bahut high hoti hai, tab us industry ke top performers ko uske hisaab se pay milta hai. Market isi tarah kaam karta hai. Aur ab ek uncomfortable truth: baat sirf hard work ki nahi hoti. Ek cleaner physical level par accountant se zyada hard work kar sakta hai. Woh zyada paseena baha sakta hai. Zyada thak sakta hai. Zyada waqt pairon par bita sakta hai. Lekin market uski role ko alag tareeke se value karta hai.",
+      "tts": "लोग कम्प्लेन करते हैं कि फुटबॉल प्लेयर्स वरपैड होते हैं. लेकिन फुटबॉल प्लेयर्स मिलियंस तभी कमा पाते हैं जब फुटबॉल के लिए मैसिव डिमांड हो. लोगों को उस स्पोर्ट में वैल्यू दिखनी चाहिए. उन्हें टिकट्स खरीदने चाहिए. स्ट्रीम्स. मेरचंदीसे. एक्सपेरिएंसेस. और जब डिमांड बहुत हाई होती है मार्किट इसी तरह काम करता है. और अब एक उनकंफर्टबले ट्रुथ: बात सिर्फ हार्ड वर्क की नहीं होती. एक क्लीनर फिजिकल लेवल पर अकाउंटेंट से ज़्यादा हार्ड वर्क कर सकता है. वह ज़्यादा पसीना बहा सकता है. ज़्यादा थक सकता है. ज़्यादा वक़्त पैरों पर बिता सकता है. लेकिन मार्किट उसकी रोले को अलग तरीके से वैल्यू करता है."
+    },
+    {
+      "id": "s17",
+      "normalized": "Kyuu? Kyuki market ko ek role doosre se zyada easily replaceable lagta hai. Sakht lagta hai? Haan. Lekin value isi tarah price hoti hai. Accountant ne saalon tak ek skill seekhi jo clients ka paisa bachati hai aur unki specific problems solve karti hai. Isliye uski perceived value zyada hoti hai. Lekin phir bhi yaad rakho, job ab bhi serious wealth build karne ka best formula nahi hai.",
+      "tts": "क्यू? क्युकी मार्किट को एक रोले दुसरे से ज़्यादा ैसिलय रेप्लासाब्ले लगता है. सख्त लगता है? हाँ. लेकिन वैल्यू इसी तरह प्राइस होती है. अकाउंटेंट ने सालों तक एक स्किल सीखी जो क्लाइंट्स का पैसा बचाती है और उनकी स्पेसिफिक प्रॉब्लम्स सॉल्व करती है. इसलिए उसकी पर्सिवेद वैल्यू ज्यादा होती है. लेकिन फिर भी याद रखो"
+    },
+    {
+      "id": "s18",
+      "normalized": "Toh asli sawaal yeh banta hai: apni value kaise badhayi jaye? Bezos ya Musk mein aisa kya hai jo market unhe itni zyada value deta hai? Wealth equation ka pehla step bahut simple hai: problems solve karo. Bas. Paisa wahi se aata hai. Agar koi cheez problem solve karti hai, paisa uski taraf flow karta hai. Agar woh million-dollar problem solve karti hai, toh millions aa sakte hain. Agar woh billion-dollar problem solve karti hai, toh billions aa sakte hain.",
+      "tts": "तोह असली सवाल यह बनता है: अपनी वैल्यू कैसे बढ़ाई जाए? बेज़ोस या मुस्क में ऐसा क्या है जो मार्किट उन्हें इतनी ज्यादा वैल्यू देता है? वेल्थ ेकशन का पहला स्टेप बहुत सिंपल है: प्रॉब्लम्स सॉल्व करो. बस. पैसा वहीं से आता है. अगर कोई चीज़ प्रॉब्लम सॉल्व करती है अगर वह मिलियन-डॉलर प्रॉब्लम सॉल्व करती है अगर वह बिलियन-डॉलर प्रॉब्लम सॉल्व करती है"
+    },
+    {
+      "id": "s19",
+      "normalized": "Amazon ko dekho. Usne inconvenience solve kiya. Usne access solve kiya. Usne speed solve ki. Usne selection solve ki. Usne pricing solve ki. Aur phir usne ek poora ecosystem build kiya jo aur bhi problems solve karta gaya. Jeff Bezos amir isliye nahi bana kyuki woh paise ke peeche bhaaga. Woh amir bana kyuki usne bahut saare logon ki bahut badi problem solve ki.",
+      "tts": "अमेज़न को देखो. उसने इनकन्वेनैंस सोल्वे किया. उसने एक्सेस सोल्वे किया. उसने स्पीड सोल्वे की. उसने सिलेक्शन सोल्वे की. उसने प्राइसिंग सोल्वे की. और फिर उसने एक पूरा इकोसिस्टम बिल्ड किया जो और भी प्रॉब्लम्स सॉल्व करता गया. जेफ बेजॉस अमीर इसलिए नहीं बन क्युकी वह पैसे के पीछे भागा. वह अमीर बना क्युकी उसने बहुत सारे लोगों की बहुत बड़ी प्रॉब्लम सॉल्व की."
+    },
+    {
+      "id": "s20",
+      "normalized": "Toh agar tum seedha paisa chase kar rahe the, toh tum galat cheez chase kar rahe the. Sunne mein ulta lagta hai, lekin agar tumhe paisa chahiye, toh paisa mat dhoondo. Problems dhoondo. Aur usse bhi important, solutions dhoondo. Aur jab solution mil jaye, uske around kuch build karo. Ab tum soch rahe hoge: toh kya? Kya mujhe next Amazon banana padega? Next Facebook? Next Google? Mujhe coding nahi aati. Mere paas startup capital nahi hai. Mere paas koi genius idea nahi hai. Thoda ruk jao. Yeh tumhari purani soch dobara bol rahi hai. Hamesha problem se shuru karo. Apne aas-paas dekho. Market ko suno. Log baar baar kis cheez ki complaint kar rahe hain? Woh kya cheez hai jo woh chahte hain ki exist kare? Unhe kis cheez se frustration hoti hai? Unka waqt kis cheez mein barbaad hota hai? Kya outdated hai? Kya expensive hai? Kya slow hai? Kya broken hai? Phir khud se poochho: kya main isse solve kar sakta hoon? Aur kya yeh waqai solve karne layak problem hai?",
+      "tts": "तोह अगर तुम सीधा पैसा चेस कर रहे थे सुनने में उल्टा लगता है प्रोब्लेम्स ढूंढो. और उससे भी इम्पोर्टेन्ट और जब सलूशन मिल जाये अब तुम सोच रहे होगे: तोह क्या? क्या मुझे नेक्स्ट अमेज़न बनना पड़ेगा? नेक्स्ट फेसबुक? नेक्स्ट गूगल? मुझे कोडन नहीं आती. मेरे पास स्टार्टअप कैपिटल नहीं है. मेरे पास कोई जीनियस आईडिया नहीं है. थोड़ा रुक जाओ. यह तुम्हारी पुराणी सोच दोबारा बोल रही है. हमेशा प्रॉब्लम से शुरू करो. अपने आस-पास देखो. मार्किट को सुनो. लोग बार बार किस चीज़ की कंप्लेंट कर रहे हैं? वह क्या चीज़ है जो वह चाहते हैं की एक्सिस्ट करे? उन्हें किस चीज़ से फ़्रस्ट्रेशन होती है? उनका वक़्त किस चीज़ में बर्बाद होता है? क्या आउटडेटिड है? क्या एक्सपेंसिव है? क्या स्लो है? क्या ब्रोकन है? फिर खुद से पूछो: क्या मैं इसे सॉल्व कर सकता हूँ? और क्या यह वाकई सोल्वे करने लायक प्रॉब्लम है?"
+    },
+    {
+      "id": "s21",
+      "normalized": "bhaag teen: Ek Aisi Problem Jo Solve Karne Layak Ho. Wealth equation ka final step yeh hai: tumhara solution scalable hona chahiye. Use sirf kuch logon tak nahi, bahut logon tak pahunchna chahiye. Kyuki scale hi income aur wealth mein farq paida karta hai. Agar tum restaurant kholte ho, toh tum location, capacity aur foot traffic se limited ho. Agar franchise build karte ho, toh model zyada scalable ho jata hai. Agar software build karte ho, toh tumhara product online hazaron ya laakhon logon tak pahunch sakta hai bina har unit ko alag se manufacture ya ship kiye. Yahi hota hai scale. Aur scale sab kuch badal deta hai.",
+      "tts": "भाग तीन: एक ऐसी प्रॉब्लम जो सोल्वे करने लायक हो. वेल्थ ेकशन का फाइनल स्टेप यह है: तुम्हारा सलूशन स्केलेबल होना चाहिए. उसे सिर्फ कुछ लोगों तक नहीं क्युकी स्केल ही इनकम और वेल्थ में फर्क पैदा करता है. अगर तुम रेस्टोरेंट खोलते हो अगर फ्रैंचाइज़ी बिल्ड करते हो अगर सॉफ्टवेयर बिल्ड करते हो यही होता है स्केल. और स्केल सब कुछ बदल देता है."
+    },
+    {
+      "id": "s22",
+      "normalized": "Job ke through infinite scale dhundhne ki koshish karo. Nahi milega. Lekin ek aur trap hai jisse bachna zaroori hai: kya tumhara business ab bhi paisa kamaane ke liye tumhara saara time maangta hai? Kyuki agar haan, toh ho sakta hai tumne bas ek aur job build kar li ho, sirf iss baar usse business naam de diya ho. Maan lo tum ek yoga teacher ho jo ek sau dollars per hour charge karta hai. Sunne mein achha lagta hai. Lekin tumhari income ab bhi utni hi hai jitne ghante tum physically kaam kar sakte ho. Yeh ab bhi time-bound income hai. Ab compare karo ek online yoga course se. Ek aisi cheez jo tum ek baar banao aur baar baar sell karo, chaubees by saat. Ab tum alag tarah soch rahe ho. Ab tum scale build kar rahe ho.",
+      "tts": "जॉब के थ्रू इनफिनिट स्केल ढूंढने की कोशिश करो. नहीं मिलेगा. लेकिन एक और ट्रैप है जिससे बचना ज़रूरी है: क्या तुम्हारा बिज़नेस अब भी पैसा कमाने के लिए तुम्हारा सारा टाइम मांगता है? क्यूंकि अगर हाँ मान लो तुम एक योग टीचर हो जो एक सौ डॉलर्स पैर ऑवर चार्ज करता है. सुनने में अच्छा लगता है. लेकिन तुम्हारी इनकम अब भी उतनी ही है जितने घंटे तुम फिजिकली काम कर सकते हो. यह अब भी टाइम-बाउंड इनकम है. अब कपड़े करो एक ऑनलाइन योग कोर्स से. एक ऐसी चीज़ जो तुम एक बार बनाओ और बार बार सेल्ल करो अब तुम अलग तरह सोच रहे हो. अब तुम स्केल बिल्ड कर रहे हो."
+    },
+    {
+      "id": "s23",
+      "normalized": "Isi liye systems important hote hain. Automation important hota hai. Processes important hote hain. Kyuki jitna zyada tumhara business tumhari direct involvement ke bina chal sakta hai, utna powerful woh banta hai. Agar koi kaam aisa hai jo koi aur tumse better kar sakta hai, aur financially woh sahi decision hai, toh outsource karo. Sab kuch khud karna koi medal nahi hai. Aksar woh ek bottleneck hota hai. Tumhara kaam sab kuch khud karna nahi hai. Tumhara kaam yeh ensure karna hai ki tumhara solution market tak sabse effective tareeke se pahuche.",
+      "tts": "इसी लिए सिस्टम्स इम्पोर्टेन्ट होते हैं. ऑटोमेशन इम्पोर्टेन्ट होता है. प्रोसेसेज इम्पोर्टेन्ट होते हैं. क्युकी जितना ज़्यादा तुम्हारा बिज़नेस तुम्हारी डायरेक्ट इन्वोल्वमेंट के बिना चल सकता है अगर कोई काम ऐसा है जो कोई और तुमसे बेटर कर सकता है सब कुछ खुद करना कोई मैडल नहीं है. अक्सर वह एक बोटलनेक होता है. तुम्हारा काम सब कुछ खुद करना नहीं है. तुम्हारा काम यह ेंसुरे करना है कि तुम्हारा सलूशन मार्किट तक सबसे इफेक्टिव तरीके से पहुंचे."
+    },
+    {
+      "id": "s24",
+      "normalized": "Aur yeh point important hai: market ko tumhare ego se koi matlab nahi. Usse tumhari passion se bhi koi matlab nahi. Usse farq padta hai sirf itna, kya tumhara solution valuable hai ya nahi. Toh jab tum ek profitable solution build kar lo, aur systems place mein aa jaayein, tab aata hai reward. bhaag chaar: Inaam. Us point par usually tumhare saamne do raaste hote hain. Ya toh tum business continue karte ho, ya phir use bech dete ho. Isi ko acquisition kehte hain. Woh moment jab koi tumhari saalon ki mehnat se bani cheez ko kharid leta hai.",
+      "tts": "और यह पॉइंट इम्पोर्टेन्ट है: मार्किट को तुम्हारे ईगो से कोई मतलब नहीं. उससे तुम्हारी पैशन से भी कोई मतलब नहीं. उससे फर्क पड़ता है सिर्फ इतना तोह जब तुम एक प्रॉफिटेबल सलूशन बिल्ड कर लो भाग चार: इनाम. उस पॉइंट पर उसुअल्ल्य तुम्हारे सामने दो रास्ते होते हैं. या तोह तुम बिज़नेस कंटिन्यू करते हो इसी को एक्वीजीशन कहते हैं. वह मोमेंट जब कोई तुम्हारी सालों की मेहनत से बनी चीज़ को खरीद लेता है."
+    },
+    {
+      "id": "s25",
+      "normalized": "Yeh Instagram ka Facebook ko ek billion dollars mein acquire hona hai. Yeh PayPal ka eBay ko ek.paanch billion dollars mein bikna hai, jisme se ek sau painsath million Elon Musk ke paas gaye. Yahi woh point hai jahan saalon ki mehnat ek life-changing outcome mein badalti hai. Aur agar tum decide karo ki bechna nahi hai? Woh bhi bilkul sahi hai. Shayad tumhe jo build kiya woh pasand ho. Shayad tumhe lagta ho ki baad mein uski value aur zyada hogi. Shayad woh efficiently background mein chal raha ho aur tumhe freedom de raha ho. Shayad yeh teeno baatein sahi ho. Chahe jo bhi ho, tumne woh kiya jo zyada log kabhi nahi karte. Tumne ek aisi problem solve ki jo market ke liye matter karti thi. Aur market ne tumhe uska reward diya.",
+      "tts": "यह इंस्टाग्राम का फेसबुक को एक बिलियन डॉलर्स में एक्वायर होना है. यह पयपाल का ेबय को एक.पांच बिलियन डॉलर्स में बिकना है यही वह पॉइंट है जहाँ सालों की म्हणत एक लाइफ-चेंजिंग आउटकम में बदलती है. और अगर तुम डीडे करो की बेचना नहीं है? वह भी बिलकुल सही है. शायद तुम्हे जो बिल्ड किया वह पसंद हो. शायद तुम्हे लगता हो कि बाद में उसकी वैल्यू और ज़्यादा होगी. शायद वह एफ्फिसेंटली बैकग्राउंड में चल रहा हो और तुम्हे फ्रीडम दे रहा हो. शायद यह तीनों बातें सही हो. चाहे जो भी हो तुमने एक ऐसी प्रॉब्लम सॉल्व की जो मार्किट के लिए मटर करती थी. और मार्किट ने तुम्हे उसका रिवॉर्ड दिया."
+    },
+    {
+      "id": "s26",
+      "normalized": "Ab aata hai asli sawaal: yeh sab aakhir tha kis ke liye? bhaag paanch: Tumhara Paisa Ya Tumhari Zindagi. Kyuki zyada tar logon ke liye, yeh kabhi sirf paise ke baare mein tha hi nahi. Paisa bas kagaz hai. Ya screen par ek number. Uski value tabhi hai kyuki log maante hain ki uski value hai. Shuru se hi yeh sirf zyada paisa paane ka matter nahi tha. Baat thi us cheez ki jo paisa represent karta hai. Mortgage chukana. Dream car lena. Duniya ghoomna. Bills ki tension se azaad rehna. Rent ke liye raaton ki neend kharab na hona. Har baar yeh na sochna, kya main afford kar sakta hoon? Jo cheez tum waqai chase kar rahe the, woh thi freedom. Ek feeling. Ek aisi life jahan paisa tumhari har decision ko control na kare.",
+      "tts": "अब आता है असली सवाल: यह सब आखिर था किस के लिए? भाग पांच: तुम्हारा पैसा या तुम्हारी ज़िन्दगी. क्युकी ज़्यादा तर लोगों के लिए पैसा बस कागज़ है. या स्क्रीन पर एक नंबर. उसकी वैल्यू तभी है क्युकी लोग मानते हैं कि उसकी वैल्यू है. शुरू से ही यह सिर्फ ज़्यादा पैसा पाने का मैटर नहीं था. बात थी उस चीज़ की जो पैसा रिप्रेजेंट करता है. मॉर्गेज चुकाना. ड्रीम कार लेना. दुनिया घूमना. बिल्स की टेंशन से आज़ाद रहना. रेंट के लिए रातों की नींद ख़राब न होना. हर बार यह न सोचना जो चीज़ तुम वाक़ई चेस कर रहे थे एक फीलिंग. एक ऐसी लाइफ जहाँ पैसा तुम्हारी हर डिसिशन को कण्ट्रोल न करे."
+    },
+    {
+      "id": "s27",
+      "normalized": "Aur yahi humein wapas le aata hai iss poori video ke sabse important lesson par: yeh kabhi asal mein paise ke baare mein tha hi nahi. Yeh time ke baare mein tha. Woh ek resource jo tum kabhi wapas nahi kama sakte. Toh khud se honestly poochho: kya apni zindagi ka zyada hissa ek aisi job ko dena jise tum pasand bhi nahi karte, sach mein worth it hai? Kya tum waise jeena chahte ho? Utho. Travel karo. Kaam karo. Ghar aao. Kuch dekho. So jao. Repeat karo. Saalon tak. Tum apni zindagi ke kitne ghante iss pattern mein khona chahte ho?",
+      "tts": "और यही हमें वापस ले आता है इस पूरी वीडियो के सबसे इम्पोर्टेन्ट लेसन पर: यह कभी असल में पैसे के बारे में था ही नहीं. यह टाइम के बारे में था. वह एक रिसोर्स जो तुम कभी वापस नहीं कमा सकते. तोह खुद से होनेस्त्ली पूछो: क्या अपनी ज़िन्दगी का ज़्यादा हिस्सा एक ऐसी जॉब को देना जिसे तुम पसंद भी नहीं करते क्या तुम वैसे जीना चाहते हो? उठो. ट्रेवल करो. काम करो. घर आओ. कुछ देखो. सो जाओ. रिपीट करो. सालों तक. तुम अपनी ज़िन्दगी के कितने घंटे इस पैटर्न में खोना चाहते हो?"
+    },
+    {
+      "id": "s28",
+      "normalized": "Ab ho sakta hai abhi ke liye tumhare paas koi aur choice na ho. Ho sakta hai abhi tumhe isi raaste par chalna pade. Aur woh theek hai. Toh shayad yeh video tumhe bas ek perspective de. Shayad bas ek beej bo de. Lekin un logon ke liye jo zyada chahte hain, un logon ke liye jo poori zindagi paise ki tension mein nahi guzarna chahte, yeh yaad rakho: paison ka peecha karna band karo. Problems ka peecha karo. Solutions dhoondo. Yahi equation hai. Yahi wealth ka source hai. Aur agar tum jo freedom chahte ho woh is equation ke doosri side par hai, toh meaningful problems solve karna tumhari struggle banne do. Kya isse happiness guaranteed hai? Nahi. Kya fulfillment guaranteed hai? Nahi. Uska jawab sirf tum de sakte ho. Lekin agar struggle meaningful hai, toh shayad uska peecha karna worth it hai.",
+      "tts": "अब हो सकता है अभी के लिए तुम्हारे पास कोई और चॉइस न हो. हो सकता है अभी तुम्हे इसी रास्ते पर चलना पड़े. और वह ठीक है. तोह शायद यह वीडियो तुम्हे बस एक पर्सपेक्टिव दे. शायद बस एक बीज बो दे. लेकिन उन लोगों के लिए जो ज़्यादा चाहते हैं पैसों का पीछा करना बंद करो. प्रोब्लेम्स का पीछा करो. सोलूशन्स ढूँढो. यही ेकशन है. यही वेल्थ का सोर्स है. और अगर तुम जो फ्रीडम चाहते हो वह इस ेकशन के दूसरी साइड पर है क्या इससे हैप्पीनेस गारंटीड है? नहीं. क्या फुलफिलमेंट गारंटीड है? नहीं. उसका जवाब सिर्फ तुम दे सकते हो. लेकिन अगर स्ट्रगल मीनिंगफुल है"
+    },
+    {
+      "id": "s29",
+      "normalized": "Conclusion. Aur simple terms mein, yahi hai wealth ka equation. Of course, is video mein bahut si nuances cover nahi ho payi. Business, money, aur entrepreneurship itne gehre topics hain ki unhe ek hi video mein poori tarah cover nahi kiya ja sakta. Lekin agar tumhe yeh journey interesting lagti hai, toh main strongly recommend karunga ki tum MJ DeMarco ka kaam padhon, jinki ideas ne is perspective ko kaafi inspire kiya hai. Aur ek baat dobara yaad rakhna jo maine shuru mein boli thi: zyada log successful nahi honge. Impossible hone ki wajah se nahi, balki isliye kyuki woh jaldi give up kar dete hain, chhota sochte hain, ya shuru hi nahi karte. Isi liye failure important hai. Jaldi fail hona important hai. Seekhna aur aage badhna important hai. Aur chahe abhi tum jo karte ho woh business na ho, chahe woh job ho, service ho, skill ho, ya koi creative kaam, agar tum khud se yeh poochho main kaunsi problem solve kar raha hoon, toh yeh tumhari value ko poori tarah badal sakta hai. Aur jitni zyada valuable problems tum solve karoge, utna zyada leverage tumhare paas hoga. Apni career mein bhi. Apni salary mein bhi.",
+      "tts": "कन्क्लूसिओं. और सिंपल टर्म्स में ऑफ़ कोर्स बिज़नेस लेकिन अगर तुम्हे यह जर्नी इंटरेस्टिंग लगती है और एक बात दोबारा याद रखना जो मैंने शुरू में बोली थी: ज़्यादा लोग सक्सेसफुल नहीं होंगे. इम्पॉसिबल होने की वजह से नहीं इसी लिए फेलियर इम्पोर्टेन्ट है. जल्दी फैल होना इम्पोर्टेन्ट है. सीखने और आगे बढ़ना इम्पोर्टेन्ट है. और चाहे अभी तुम जो करते हो वह बिज़नेस न हो और जितनी ज़्यादा वैल्युएबल प्रोब्लेम्स तुम सोल्वे करोगे अपनी करियर में भी. अपनी सैलरी में भी."
+    },
+    {
+      "id": "s30",
+      "normalized": "Toh main yahi message dekar end karunga jo poori video mein baar baar repeat hua hai: paison ka peecha karna band karo. Problems ke solutions ka peecha karo. Yahi wealth ki shuruaat hai. Aur agar tum yahan tak dekh chuke ho, toh main dil se appreciate karta hoon. Aisi videos banane mein kaafi waqt, soch aur effort lagta hai. Toh end tak dekhne ke liye genuinely thank you. Agar video pasand aayi ho toh like kar dena. Agar pasand nahi aayi toh dislike kar dena. Aur comments mein bata dena kyun. Mera goal hai cinematic, documentary-style videos banana business, finance, aur life ke topics par. Toh agar yeh woh content hai jo tum aur dekhna chahte ho, toh subscribe karo, notifications on karo, aur channel ke saath jude raho. Aur itna kehkar, main umeed karta hoon tumhara din bahut achha jaaye. Milte hain next video mein.",
+      "tts": "तोह मैं यही मैसेज देकर एन्ड करूँगा जो पूरी वीडियो में बार बार रिपीट हुआ है: पैसों का पीछा करना बंद करो. प्रोब्लेम्स के सोलूशन्स का पीछा करो. यही वेल्थ की शुरुआत है. और अगर तुम यहाँ तक देख चुके हो ऐसी वीडियोस बनाने में काफी वक़्त तोह एन्ड तक देखने के लिए गेनुइनेली थैंक यू. अगर वीडियो पसंद आई हो तोह लाइक कर देना. अगर पसंद नहीं आयी तोह दिस्लिके कर देना. और कमैंट्स में बता देना क्यूँ. मेरा गोआल है सिनेमेटिक तोह अगर यह वह कंटेंट है जो तुम और देखना चाहते हो और इतना कहकर मिलते हैं नेक्स्ट वीडियो में."
+    }
+  ]
+}

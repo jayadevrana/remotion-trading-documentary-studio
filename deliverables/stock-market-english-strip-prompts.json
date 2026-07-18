@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "project": "stock-market-english-150-documentary",
+    "shot_count": 150,
+    "strip_count": 30,
+    "panels_per_strip": 5,
+    "style": "ultra realistic cinematic finance documentary",
+    "notes": "Generate one five-panel horizontal strip per scene, then split into five individual stills. Every strip must be a single horizontal row of exactly five tall vertical storyboard panels with narrow black dividers, no second row, no collage, no text, and no watermark."
+  },
+  "strips": [
+    {
+      "sceneId": "s01",
+      "filename": "s01-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: a lone investor in a dim apartment looking at a huge stock chart glowing through a glass wall. Panel 2: close-up of tense hands holding unpaid bills beside a dark city window. Panel 3: anxious face lit by chart reflections and rain on glass. Panel 4: empty chair facing a glowing market screen, feeling of pressure and absence. Panel 5: wide city skyline with stock data towering like architecture. No text, no watermark, no second row, no extra frames, premium dark mood."
+    },
+    {
+      "sceneId": "s02",
+      "filename": "s02-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: groceries, receipts, and cash spread across a kitchen table. Panel 2: savings statement under warm light with shrinking household budget mood. Panel 3: hand counting money beside rising food and utility bills. Panel 4: refrigerator and pantry looking sparse under late-night light. Panel 5: close-up of a worried person staring at numbers on a bank app. No text, no watermark, no second row, no extra frames, deep shadows and realistic texture."
+    },
+    {
+      "sceneId": "s03",
+      "filename": "s03-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: scrolling phone screen with social trading hype reflected in eyes. Panel 2: laptop surrounded by thumbnails and profit screenshots. Panel 3: a person alone in darkness lit by endless finance notifications. Panel 4: hand hesitating over a buy button on a phone. Panel 5: crowded digital world of charts, comments, and urgency. No readable captions, no watermark, no second row, no extra frames, tense and addictive mood."
+    },
+    {
+      "sceneId": "s04",
+      "filename": "s04-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: sleek brokerage app glowing in a dark hand. Panel 2: clean modern investing interface reflected on a calm face. Panel 3: fractional-share style finance screen in a premium apartment. Panel 4: phone being opened with ceremonial almost seductive lighting. Panel 5: a desk setup that feels expensive, easy, and deceptively safe. No text, no watermark, no second row, no extra frames, premium seductive financial mood."
+    },
+    {
+      "sceneId": "s05",
+      "filename": "s05-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: corporate headquarters and exchange screens symbolizing ownership. Panel 2: trading floor screens with buyers and sellers implied. Panel 3: hands on keyboard entering trades in a dark brokerage environment. Panel 4: abstract metallic chamber of screens and capital flows. Panel 5: calm balance-sheet papers beside fast-moving chart light. No text, no watermark, no second row, no extra frames, cool blue-black documentary style."
+    },
+    {
+      "sceneId": "s06",
+      "filename": "s06-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: business fundamentals papers and calculator lit softly. Panel 2: chaotic chart spikes in red and green. Panel 3: split visual of a calm company office versus a frantic trading screen. Panel 4: face of an investor watching price jump with confusion. Panel 5: blurred crowd behind candlesticks representing belief over value. No text, no watermark, no second row, no extra frames, stark contrast between logic and emotion."
+    },
+    {
+      "sceneId": "s07",
+      "filename": "s07-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: dark trading hall with glowing candles suspended like signals. Panel 2: person buying with hopeful expression under green light. Panel 3: person selling with dread under red light. Panel 4: overlapping screens, faces, and emotional tension in a market auction mood. Panel 5: wide dramatic scene of buyers and sellers under hard overhead spotlights. No text, no watermark, no second row, no extra frames, premium psychological finance mood."
+    },
+    {
+      "sceneId": "s08",
+      "filename": "s08-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: close-up of greedy excitement at a rising chart. Panel 2: fearful face in red market light. Panel 3: group of investors moving together toward a glowing screen like a herd. Panel 4: hands gripping a desk during volatility. Panel 5: abstract emotional finance environment mixing green hope and red panic. No text, no watermark, no second row, no extra frames, primitive fear-and-greed mood."
+    },
+    {
+      "sceneId": "s09",
+      "filename": "s09-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: crowd gathered around glowing market screens with nervous belonging. Panel 2: a rising chart becoming the center of a social ritual. Panel 3: investors exchanging reassured glances because everyone else is buying. Panel 4: one doubtful face surrounded by euphoric confidence. Panel 5: a packed room moving like a herd toward the same bright trade. No text, no watermark, no second row, no extra frames, belonging mistaken for intelligence."
+    },
+    {
+      "sceneId": "s10",
+      "filename": "s10-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic cinematic photography with narrow black dividers between panels. Panel 1: chart beginning to crack under pressure after a confident rally. Panel 2: worried traders exchanging uncertain glances. Panel 3: a weak number appearing on a glowing terminal in a dark room. Panel 4: capital flowing out of a system like leaking light. Panel 5: large trading room dimming as confidence fades. No text, no watermark, no second row, no extra frames, fragile confidence and spreading doubt."
+    },
+    {
+      "sceneId": "s11",
+      "filename": "s11-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic historical photography with narrow black dividers between panels. Panel 1: 1920s investors outside an exchange full of optimism. Panel 2: period newspaper and speculative atmosphere. Panel 3: rain-soaked street with worried faces outside the market. Panel 4: close-up of despair in a 1929-era financial crowd. Panel 5: wide period financial district under dark skies and panic. No text, no watermark, no second row, no extra frames, restrained historical realism."
+    },
+    {
+      "sceneId": "s12",
+      "filename": "s12-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: frantic 1980s trading floor with papers and speed. Panel 2: electronic tickers overwhelming a trader. Panel 3: hands moving fast over terminals during market chaos. Panel 4: close-up of stress and confusion in a crash. Panel 5: wide control-room style finance environment showing panic moving faster than comprehension. No text, no watermark, no second row, no extra frames, speed and urgency."
+    },
+    {
+      "sceneId": "s13",
+      "filename": "s13-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: late-1990s internet startup glow and optimism. Panel 2: tech office full of screens and impossible expectations. Panel 3: investor euphoric in blue monitor light. Panel 4: charts rising irrationally against futuristic tech imagery. Panel 5: that same futuristic promise beginning to fracture in darkness. No text, no watermark, no second row, no extra frames, real innovation mixed with financial delusion."
+    },
+    {
+      "sceneId": "s14",
+      "filename": "s14-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: family at a kitchen table with foreclosure papers and quiet dread. Panel 2: close-up of exhausted hands on financial documents. Panel 3: laptop with a collapsing market graph in a dark home. Panel 4: empty house feeling and economic fear. Panel 5: wide suburban night scene with a collapsing financial mood. No text, no watermark, no second row, no extra frames, intimate human cost of 2008."
+    },
+    {
+      "sceneId": "s15",
+      "filename": "s15-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: empty city street and remote-work desk during pandemic uncertainty. Panel 2: market screens glowing red in a home office. Panel 3: worried face lit by news and market collapse. Panel 4: charts violently reversing from panic to rebound. Panel 5: exhausted investor processing whiplash at dawn. No text, no watermark, no second row, no extra frames, pandemic fear and rebound shock."
+    },
+    {
+      "sceneId": "s16",
+      "filename": "s16-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: young retail traders under meme-stock euphoria and monitor glow. Panel 2: cheering online community energy in a dark room. Panel 3: phone screens showing huge swings and emotional intensity. Panel 4: late buyer alone as profits vanish. Panel 5: a chaotic social-finance atmosphere where spectacle hides loss. No text, no watermark, no second row, no extra frames, unstable euphoric energy."
+    },
+    {
+      "sceneId": "s17",
+      "filename": "s17-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: exhausted investor alone in the dark checking a phone after losses. Panel 2: stress on a face in red screen glow. Panel 3: person sitting awake at 3 a.m. with a trading app open. Panel 4: isolated silhouette in a room lit only by charts. Panel 5: quiet despair after loss, no melodrama, just fatigue and damage to self-belief. No text, no watermark, no second row, no extra frames, intimate human consequence."
+    },
+    {
+      "sceneId": "s18",
+      "filename": "s18-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: phone being checked in bed late at night. Panel 2: market charts interrupting a meal at home. Panel 3: distracted worker secretly checking prices during office hours. Panel 4: tired person in a mirror holding a phone in darkness. Panel 5: an entire room swallowed by screens and attention. No text, no watermark, no second row, no extra frames, market colonizing attention."
+    },
+    {
+      "sceneId": "s19",
+      "filename": "s19-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: institutional trading floor with powerful infrastructure. Panel 2: data-center style environment behind financial systems. Panel 3: lone retail investor with only a phone and laptop. Panel 4: split contrast between capital-rich institution and fragile home setup. Panel 5: cold portrait of structural imbalance in markets. No text, no watermark, no second row, no extra frames, unfair battlefield mood."
+    },
+    {
+      "sceneId": "s20",
+      "filename": "s20-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: finance news anchor under dramatic studio lighting. Panel 2: breaking news alerts and thumbnails surrounding a viewer in darkness. Panel 3: social media guru recording certainty for a camera. Panel 4: overwhelmed investor absorbing conflicting narratives. Panel 5: a media wall that feels more theatrical than informative. No text, no watermark, no second row, no extra frames, manufactured urgency and media theater."
+    },
+    {
+      "sceneId": "s21",
+      "filename": "s21-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: shadowy boardroom with subtle hidden influence over market screens. Panel 2: quiet positioning before the crowd notices. Panel 3: hands moving unseen inside a dark financial machine. Panel 4: phone user reacting to manipulated hype too late. Panel 5: elegant but menacing image of incentives overpowering fairness. No text, no watermark, no second row, no extra frames, subtle manipulation and unfairness."
+    },
+    {
+      "sceneId": "s22",
+      "filename": "s22-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: investor standing at the edge of a financial cliff made of charts and borrowed-money papers. Panel 2: margin documents and candle formations under harsh light. Panel 3: hands gripping a desk as leverage turns against a trade. Panel 4: collapse implied by height and fragility. Panel 5: final edge-of-the-cliff shot under red and blue night lighting. No text, no watermark, no second row, no extra frames, leverage as cliff-edge danger."
+    },
+    {
+      "sceneId": "s23",
+      "filename": "s23-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: dark room with many monitors and fast-moving charts. Panel 2: energy-drink-and-keyboard day-trading setup with tension. Panel 3: close-up of a twitchy hand entering another trade. Panel 4: face caught between adrenaline and exhaustion. Panel 5: a glowing screen environment that feels like a casino disguised as work. No text, no watermark, no second row, no extra frames, addictive high-frequency trading mood."
+    },
+    {
+      "sceneId": "s24",
+      "filename": "s24-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: elegant asset bubble rising over a city skyline. Panel 2: early believers celebrating in soft gold light. Panel 3: prices going vertical against a dark sky. Panel 4: hairline cracks forming inside the bubble. Panel 5: collapse beginning with debris of broken confidence. No text, no watermark, no second row, no extra frames, timeless bubble-cycle imagery."
+    },
+    {
+      "sceneId": "s25",
+      "filename": "s25-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: retail investor entering late into a crowded rally. Panel 2: oversized position taken with too much confidence. Panel 3: chart turning while the investor freezes. Panel 4: painful exit into red screens and loneliness. Panel 5: aftermath of missed recovery and emotional collapse. No text, no watermark, no second row, no extra frames, behavioral loss pattern."
+    },
+    {
+      "sceneId": "s26",
+      "filename": "s26-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: calm desk with emergency-fund notes and a glass of water. Panel 2: diversified portfolio planning on paper and screen. Panel 3: small position sizing reflected in a tidy trading notebook. Panel 4: disciplined investor reviewing rules instead of reacting emotionally. Panel 5: quiet morning workspace that feels grounded and sustainable. No text, no watermark, no second row, no extra frames, realism and survival."
+    },
+    {
+      "sceneId": "s27",
+      "filename": "s27-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: investor sitting calmly with ample cash reserve and no panic. Panel 2: ordinary life continuing while markets move in the background. Panel 3: measured portfolio check with low emotional tension. Panel 4: written process open on a desk in soft light. Panel 5: stable emotional posture replacing urgency. No text, no watermark, no second row, no extra frames, survival-first mentality."
+    },
+    {
+      "sceneId": "s28",
+      "filename": "s28-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: long time horizon represented by the same calm investor at different life stages. Panel 2: slow compounding visualized through orderly financial growth. Panel 3: patience contrasted with noisy short-term headlines in the background. Panel 4: peaceful evening scene while market noise fades away. Panel 5: time becoming an advantage instead of a threat. No text, no watermark, no second row, no extra frames, patient long-term edge."
+    },
+    {
+      "sceneId": "s29",
+      "filename": "s29-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: trader writing detailed notes in a journal. Panel 2: small risk position on screen rather than an oversized gamble. Panel 3: close-up of calm deliberate trade planning. Panel 4: chart review with data instead of emotion. Panel 5: humble, process-driven active trading environment. No text, no watermark, no second row, no extra frames, disciplined not flashy."
+    },
+    {
+      "sceneId": "s30",
+      "filename": "s30-strip.png",
+      "prompt": "Create a single horizontal row of exactly five tall vertical storyboard panels for a dark finance documentary, ultra realistic photography with narrow black dividers between panels. Panel 1: lone figure overlooking a financial district before dawn. Panel 2: exchange towers glowing cold in the distance. Panel 3: city and market lights fading into early morning haze. Panel 4: reflective close-up of a face that has understood the system. Panel 5: wide final horizon shot, opportunity visible but emotionally cold. No text, no watermark, no second row, no extra frames, final philosophical closing image."
+    }
+  ]
+}

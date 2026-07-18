@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "project": "wealth-equation-documentary",
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "budget_tier": "low"
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": "1M to 1B scale reveal plus Bezos comparison",
+      "objective": "Open with physical scale and status dread.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 28,
+      "edit_note": "Animate circle sizes with restrained scale jumps; use Venice still as background atmosphere."
+    },
+    {
+      "id": "s02",
+      "narration": "Job pressure and income insecurity",
+      "objective": "Ground the viewer emotionally in their own life.",
+      "device": "archive_pan",
+      "method": "practical",
+      "duration_sec": 31,
+      "edit_note": "Slow push through desk, bills, and city-night still."
+    },
+    {
+      "id": "s03",
+      "narration": "Debt and pressure montage",
+      "objective": "Make the pressure tactile without using cheesy stock montages.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 25,
+      "edit_note": "Use card grid, subtle overlays, and highlighted debt labels."
+    },
+    {
+      "id": "s04",
+      "narration": "Luck, cheating, connections",
+      "objective": "Externalize the stories people tell themselves.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 29,
+      "edit_note": "Hit each excuse phrase with weight, then collapse into shrinking frame."
+    },
+    {
+      "id": "s05",
+      "narration": "Game rigged thesis",
+      "objective": "Land the emotional low point.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 25,
+      "edit_note": "Dark board-game metaphor, slight orbit, minimal text."
+    },
+    {
+      "id": "s06",
+      "narration": "Wrong rules and wealth equation",
+      "objective": "Create the first big reframe.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 35,
+      "edit_note": "Reveal the words rules, equation, pattern, system in sequence."
+    },
+    {
+      "id": "s07",
+      "narration": "Warning and freedom",
+      "objective": "Raise stakes while promising meaning.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 49,
+      "edit_note": "Tunnel of light into freedom cue, keep motion slow and heavy."
+    },
+    {
+      "id": "s08",
+      "narration": "Beliefs inherited from childhood",
+      "objective": "Reframe money beliefs as programming.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 33,
+      "edit_note": "Layer family, school, society words like inherited stamps."
+    },
+    {
+      "id": "s09",
+      "narration": "Nobody taught the mechanism",
+      "objective": "Make the absence of teaching feel systemic.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 34,
+      "edit_note": "Schoolbook cards, crossed-out formulas, empty chalkboard mood."
+    },
+    {
+      "id": "s10",
+      "narration": "Rich are evil stereotype",
+      "objective": "Name the stereotype cleanly.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 31,
+      "edit_note": "Portrait-based composition with accusatory labels dissolving."
+    },
+    {
+      "id": "s11",
+      "narration": "Self-made data and names",
+      "objective": "Counter myth with evidence and examples.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 28,
+      "edit_note": "68 percent stat first, then disciplined name reveals."
+    },
+    {
+      "id": "s12",
+      "narration": "Salary equation",
+      "objective": "State the default equation most people follow.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 24,
+      "edit_note": "Money equals salary line should feel rigid and mechanical."
+    },
+    {
+      "id": "s13",
+      "narration": "Time-bound income and 24 years example",
+      "objective": "Turn salary logic into a visible time trap.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 48,
+      "edit_note": "Use timeline bars, life slices, and inflation bleed."
+    },
+    {
+      "id": "s14",
+      "narration": "Why they get there younger",
+      "objective": "Bridge into Part 2 with curiosity intact.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 31,
+      "edit_note": "Use skyline ladder and age markers in restrained way."
+    },
+    {
+      "id": "s15",
+      "narration": "Market assigns value",
+      "objective": "Explain the mechanism cleanly.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 32,
+      "edit_note": "Network of people -> price signal -> value."
+    },
+    {
+      "id": "s16",
+      "narration": "Hard work is not pricing",
+      "objective": "Separate effort from economic value.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 55,
+      "edit_note": "Split-screen logic between cleaner and accountant, then football demand example."
+    },
+    {
+      "id": "s17",
+      "narration": "Replaceability",
+      "objective": "Make the uncomfortable truth land.",
+      "device": "document_highlight",
+      "method": "practical",
+      "duration_sec": 26,
+      "edit_note": "Highlight replaceability like a stamped verdict."
+    },
+    {
+      "id": "s18",
+      "narration": "Problems solve wealth",
+      "objective": "Reveal the first real step of the equation.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 34,
+      "edit_note": "Problems -> solutions -> money flow system."
+    },
+    {
+      "id": "s19",
+      "narration": "Amazon as solved-problems machine",
+      "objective": "Show the idea through one concrete example.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 29,
+      "edit_note": "Warehouse or delivery ecosystem mood with solving labels."
+    },
+    {
+      "id": "s20",
+      "narration": "Look for broken, slow, expensive problems",
+      "objective": "Turn theory into practical scanning behavior.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 65,
+      "edit_note": "Rhythmic phrase hits with searchlight motion."
+    },
+    {
+      "id": "s21",
+      "narration": "Scale",
+      "objective": "Explain why scale creates wealth.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 38,
+      "edit_note": "Restaurant -> franchise -> software ladder."
+    },
+    {
+      "id": "s22",
+      "narration": "Do not build another job",
+      "objective": "Separate business ownership from self-employment.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 58,
+      "edit_note": "Yoga teacher versus 24 by 7 course comparison."
+    },
+    {
+      "id": "s23",
+      "narration": "Systems and outsourcing",
+      "objective": "Show leverage and bottlenecks.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 34,
+      "edit_note": "Systems diagram with operator removed from center."
+    },
+    {
+      "id": "s24",
+      "narration": "Market rewards value, not ego",
+      "objective": "Set up the reward phase.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 35,
+      "edit_note": "Value stamp overrides ego and passion labels."
+    },
+    {
+      "id": "s25",
+      "narration": "Acquisition and exits",
+      "objective": "Translate leverage into life-changing outcomes.",
+      "device": "proof_collage",
+      "method": "practical",
+      "duration_sec": 47,
+      "edit_note": "Simple acquisition timeline and outcome numbers."
+    },
+    {
+      "id": "s26",
+      "narration": "Money really represented freedom",
+      "objective": "Pivot from wealth mechanics to human meaning.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 62,
+      "edit_note": "Keep frame calmer and more spacious."
+    },
+    {
+      "id": "s27",
+      "narration": "Time is the real currency",
+      "objective": "Deliver the deepest lesson clearly.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 43,
+      "edit_note": "Use routine loop visuals with relentless rhythm."
+    },
+    {
+      "id": "s28",
+      "narration": "A seed of perspective and meaningful struggle",
+      "objective": "Offer a realistic but motivating turn.",
+      "device": "hero_metaphor",
+      "method": "practical",
+      "duration_sec": 66,
+      "edit_note": "Slow lift from darkness, no forced optimism."
+    },
+    {
+      "id": "s29",
+      "narration": "Conclusion and failure lesson",
+      "objective": "Condense the message into one memorable question.",
+      "device": "kinetic_typography",
+      "method": "practical",
+      "duration_sec": 84,
+      "edit_note": "Keep clean and thesis-driven."
+    },
+    {
+      "id": "s30",
+      "narration": "Closing call to action",
+      "objective": "End with warmth while preserving the brand tone.",
+      "device": "archive_pan",
+      "method": "practical",
+      "duration_sec": 47,
+      "edit_note": "Softer motion, wider breathing room, clear subscribe close."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "profile_name": "Frank Warm Reel",
+  "reference_audio": "/Users/jayadevrana/Downloads/voice_preview_frank - warm, intimate and clear.mp3",
+  "reference_duration_seconds": 5.01551,
+  "voicebox_base": "http://127.0.0.1:17493",
+  "scenes": [
+    {
+      "id": "hook",
+      "generation_id": "5986d3c2-c077-4c8c-bc4d-c3b74496cc55",
+      "duration_seconds": 7.76,
+      "similarity": 1.0,
+      "expected": "Most trading indicators look perfect after the move is gone. This one keeps the setup readable while price is still moving.",
+      "transcribed": "Most trading indicators look perfect after the move is gone. This one keeps the setup readable while price is still moving. \u0440\u0430\u0434 \u0440\u0430\u0434",
+      "status": "completed"
+    },
+    {
+      "id": "authority",
+      "generation_id": "5c473146-78c7-4171-bb92-b3b58cd55606",
+      "duration_seconds": 8.88,
+      "similarity": 0.971,
+      "expected": "This is gold on the fifteen minute chart, and the strategy is plotting entries, structure, and targets directly on the screen. You are not guessing where the logic is coming from.",
+      "transcribed": "This is gold on the 15 minute charts and the strategy is plotting entries, structure and targets directly on the screen. You are not guessing where the logic is coming from.",
+      "status": "completed"
+    },
+    {
+      "id": "bullish",
+      "generation_id": "0eeb9e86-9d1e-4ee0-bc7c-7f4dc45129ce",
+      "duration_seconds": 6.4,
+      "similarity": 0.985,
+      "expected": "On the long side, confirmations stack as price trends higher. It keeps continuation clean and readable.",
+      "transcribed": "On the long side, confirmation stack is price trends higher. It keeps continuation clean and readable.",
+      "status": "completed"
+    },
+    {
+      "id": "bearish",
+      "generation_id": "3536d27a-0d8f-4fde-b666-36943bf841c6",
+      "duration_seconds": 9.2,
+      "similarity": 0.985,
+      "expected": "Then when momentum flips, the sell side takes over fast. The short marker, breakdown, and target print all land in one clean sequence.",
+      "transcribed": "Then, when momentum flips, the cell-side takes over fast. The short marker breaks down and Target print all land in one clean sequence. \u0440\u0430\u0434 \u0440\u0430\u0434",
+      "status": "completed"
+    },
+    {
+      "id": "report",
+      "generation_id": "b2ae24be-5979-41e3-9d20-6e62adc84e20",
+      "duration_seconds": 10.16,
+      "similarity": 0.728,
+      "expected": "And when the strategy report appears, the recording shows one hundred twenty two closed trades, seventy two point nine five percent profitable trades, and a profit factor of three point two five.",
+      "transcribed": "And when the strategy report appears, the recording shows 122 close trades, 72.95% profitable trades, and a profit factor of 3.25.",
+      "status": "completed"
+    },
+    {
+      "id": "cta",
+      "generation_id": "283d2911-42ff-432c-a8e0-8b0090918300",
+      "duration_seconds": 14.64,
+      "similarity": 0.856,
+      "expected": "If you want a free trial, text or WhatsApp plus one, six seven two, three six eight, one seven eight seven. The WhatsApp link is in the description and pinned comment. We also build custom Pine Script tools for traders who want something tailored.",
+      "transcribed": "If you want a free trial, text or WhatsApp plus 1, 672, 368, 1787. The WhatsApp link is in the description and pinned comment. We also build custom pine script tools for traders who want something tailored.",
+      "status": "completed"
+    }
+  ]
+}

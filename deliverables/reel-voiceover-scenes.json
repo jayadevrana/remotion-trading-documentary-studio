@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hook",
+    "padFrames": 10,
+    "narration": "Most trading indicators look perfect after the move is gone. This one keeps the setup readable while price is still moving.",
+    "caption": "Most indicators look good after the move is gone."
+  },
+  {
+    "id": "authority",
+    "padFrames": 10,
+    "narration": "This is gold on the fifteen minute chart, and the strategy is plotting entries, structure, and targets directly on the screen. You are not guessing where the logic is coming from.",
+    "caption": "Gold, fifteen minute chart. Entries, structure, and targets stay visible."
+  },
+  {
+    "id": "bullish",
+    "padFrames": 10,
+    "narration": "On the long side, confirmations stack as price trends higher. It keeps continuation clean and readable.",
+    "caption": "Long confirmations stack as the move trends higher."
+  },
+  {
+    "id": "bearish",
+    "padFrames": 10,
+    "narration": "Then when momentum flips, the sell side takes over fast. The short marker, breakdown, and target print all land in one clean sequence.",
+    "caption": "Momentum flips. The sell side takes over fast."
+  },
+  {
+    "id": "report",
+    "padFrames": 12,
+    "narration": "And when the strategy report appears, the recording shows one hundred twenty two closed trades, seventy two point nine five percent profitable trades, and a profit factor of three point two five.",
+    "caption": "Visible report: 122 closed trades, 72.95 percent profitable, 3.25 profit factor."
+  },
+  {
+    "id": "cta",
+    "padFrames": 18,
+    "narration": "If you want a free trial, text or WhatsApp plus one, six seven two, three six eight, one seven eight seven. The WhatsApp link is in the description and pinned comment. We also build custom Pine Script tools for traders who want something tailored.",
+    "caption": "Free trial and custom Pine Script development at plus one, six seven two, three six eight, one seven eight seven."
+  }
+]

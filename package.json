@@ -1,0 +1,39 @@
+{
+  "name": "tradingview-youtube-edit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium TradingView strategy showcase built with Remotion.",
+  "scripts": {
+    "generate:reel-voice": "python3 scripts/generate_reel_voicebox.py",
+    "generate:wealth-voice": "python3 scripts/generate_documentary_voicebox.py",
+    "generate:wealth-voicebox": "python3 scripts/generate_documentary_voicebox.py",
+    "generate:wealth-stills": "python3 scripts/generate_venice_stills.py",
+    "generate:wealth-bed": "python3 scripts/generate_suspense_bed.py",
+    "generate:stock-market-dark-voice": "python3 scripts/generate_stock_market_macos_voice.py",
+    "generate:stock-market-dark-bed": "python3 scripts/generate_stock_market_bed.py",
+    "generate:stock-market-english-voice": "python3 scripts/generate_stock_market_english_voicebox.py",
+    "generate:stock-market-english-bed": "python3 scripts/generate_stock_market_english_bed.py",
+    "pinetrades:crawl": "python3 scripts/pinetrades_video_agent.py crawl",
+    "pinetrades:review": "python3 scripts/pinetrades_video_agent.py review --video out/final/trading-strategy-premium.mp4",
+    "render:reel": "npm run generate:reel-voice && remotion render src/index.ts TradingStrategyReel out/final/trading-strategy-reel.mp4 --codec=h264 --crf=16 --pixel-format=yuv420p",
+    "render:wealth": "npm run generate:wealth-voice && npm run generate:wealth-stills && npm run generate:wealth-bed && remotion render src/index.ts WealthEquationDocumentary out/final/wealth-equation-documentary.mp4 --codec=h264 --crf=16 --pixel-format=yuv420p",
+    "render:stock-market-dark": "npm run generate:stock-market-dark-voice && npm run generate:stock-market-dark-bed && remotion render src/index.ts StockMarketDarkDocumentary out/final/stock-market-dark-documentary.mp4 --codec=h264 --crf=14 --pixel-format=yuv420p",
+    "render:stock-market-english": "npm run generate:stock-market-english-voice && npm run generate:stock-market-english-bed && remotion render src/index.ts StockMarketEnglish150Documentary out/final/stock-market-english-documentary.mp4 --codec=h264 --crf=14 --pixel-format=yuv420p",
+    "still:reel": "remotion still src/index.ts TradingStrategyReel out/stills/reel-poster.png",
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts TradingStrategyVideo out/final/trading-strategy-premium.mp4 --codec=h264 --crf=17 --pixel-format=yuv420p",
+    "still": "remotion still src/index.ts TradingStrategyVideo out/stills/poster.png"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.448"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.448",
+    "@types/node": "^22.15.3",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.8.3"
+  }
+}

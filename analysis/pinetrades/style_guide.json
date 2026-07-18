@@ -1,0 +1,89 @@
+{
+  "sample_size": 8,
+  "duration_seconds": {
+    "min": 411,
+    "max": 1342,
+    "avg": 682.75,
+    "median": 618.0
+  },
+  "top_title_words": [
+    [
+      "THE",
+      6
+    ],
+    [
+      "INDICATOR",
+      4
+    ],
+    [
+      "THIS",
+      3
+    ],
+    [
+      "USES",
+      2
+    ],
+    [
+      "FOR",
+      2
+    ],
+    [
+      "ACCURATE",
+      2
+    ],
+    [
+      "BUY",
+      2
+    ],
+    [
+      "SELL",
+      2
+    ],
+    [
+      "SIGNALS",
+      2
+    ],
+    [
+      "THAT",
+      2
+    ],
+    [
+      "PRICE",
+      2
+    ],
+    [
+      "TREND",
+      2
+    ],
+    [
+      "TRADING",
+      2
+    ],
+    [
+      "SHOWS",
+      2
+    ],
+    [
+      "WHERE",
+      2
+    ]
+  ],
+  "hook_examples": [
+    "You know those spots where prices keep topping on a level with long wicks, but they never really break through it?",
+    "You know what gets traders in trouble?",
+    "You know the problem with most oscillators?"
+  ],
+  "recurring_patterns": [
+    "Problem-led opening that names a trading pain point in the first sentence.",
+    "Fast pivot from pain point to tool explanation using phrases like 'That is where this indicator helps.'",
+    "Single-tool focus: each video tends to center around one indicator or toolkit rather than many unrelated ideas.",
+    "Explicit chart utility language: buy/sell, trend, support and resistance, volume, price action, or reversals.",
+    "Commercial CTA is consistent and tied to the indicator page rather than a generic channel CTA."
+  ],
+  "cta_signature": "PineTrades videos consistently push viewers toward a specific indicator landing page rather than a vague subscribe CTA.",
+  "visual_style_notes": [
+    "High-contrast promise in the title and thumbnail language.",
+    "Narration explains what the viewer is seeing instead of drifting into theory too early.",
+    "Tool proof is usually shown on-chart before the CTA lands."
+  ]
+}

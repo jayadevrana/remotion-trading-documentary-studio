@@ -1,0 +1,97 @@
+{
+  "model": "qwen-image",
+  "size": "1792x1024",
+  "estimated_cost_usd": 0.18,
+  "generated": [
+    {
+      "id": "money-scale-cosmos",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/money-scale-cosmos.png",
+      "status": "generated"
+    },
+    {
+      "id": "office-pressure",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/office-pressure.png",
+      "status": "generated"
+    },
+    {
+      "id": "debt-ledger",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/debt-ledger.png",
+      "status": "generated"
+    },
+    {
+      "id": "shrinking-dreams",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/shrinking-dreams.png",
+      "status": "generated"
+    },
+    {
+      "id": "rigged-game",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/rigged-game.png",
+      "status": "generated"
+    },
+    {
+      "id": "wrong-rules",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/wrong-rules.png",
+      "status": "generated"
+    },
+    {
+      "id": "warning-tunnel",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/warning-tunnel.png",
+      "status": "generated"
+    },
+    {
+      "id": "childhood-messages",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/childhood-messages.png",
+      "status": "generated"
+    },
+    {
+      "id": "self-made-mosaic",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/self-made-mosaic.png",
+      "status": "generated"
+    },
+    {
+      "id": "salary-equation",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/salary-equation.png",
+      "status": "generated"
+    },
+    {
+      "id": "time-vs-salary",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/time-vs-salary.png",
+      "status": "generated"
+    },
+    {
+      "id": "young-millionaires",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/young-millionaires.png",
+      "status": "generated"
+    },
+    {
+      "id": "market-value-network",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/market-value-network.png",
+      "status": "generated"
+    },
+    {
+      "id": "hard-work-vs-value",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/hard-work-vs-value.png",
+      "status": "generated"
+    },
+    {
+      "id": "problem-solution-engine",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/problem-solution-engine.png",
+      "status": "generated"
+    },
+    {
+      "id": "scale-ladder",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/scale-ladder.png",
+      "status": "generated"
+    },
+    {
+      "id": "freedom-not-money",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/freedom-not-money.png",
+      "status": "generated"
+    },
+    {
+      "id": "closing-horizon",
+      "file": "/Users/jayadevrana/Downloads/codex youtube clipping /public/images/wealth/closing-horizon.png",
+      "status": "generated"
+    }
+  ]
+}

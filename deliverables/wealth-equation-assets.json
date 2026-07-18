@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "model": "qwen-image",
+    "size": "1792x1024",
+    "estimated_cost_usd": 0.18
+  },
+  "assets": [
+    {
+      "id": "money-scale-cosmos",
+      "filename": "money-scale-cosmos.png",
+      "prompt": "Dark cinematic financial cosmos, concentric glowing circles expanding from one small white ring into enormous golden rings, sense of impossible scale, floating dust, deep blacks, premium documentary frame, 16:9, tactile grain, subtle volumetric light, no text, no people"
+    },
+    {
+      "id": "office-pressure",
+      "filename": "office-pressure.png",
+      "prompt": "A solitary young Indian office worker at a desk at night, laptop glow, unpaid bills, credit card statements, city lights outside, deep blue and amber lighting, premium business documentary still, emotional but restrained, cinematic composition, 16:9, no text"
+    },
+    {
+      "id": "debt-ledger",
+      "filename": "debt-ledger.png",
+      "prompt": "Close-up documentary composition of debt pressure, overlapping bank statements, calculator, credit card, student loan notices, dark desk, suspenseful lighting, realistic paper textures, cinematic grain, 16:9, no text"
+    },
+    {
+      "id": "shrinking-dreams",
+      "filename": "shrinking-dreams.png",
+      "prompt": "Dream life fading into darkness, luxury house silhouette, sports car outline, airplane route map, all shrinking into a dim vignette around a lone figure, premium cinematic metaphor, deep shadows, muted gold and blue palette, 16:9, no text"
+    },
+    {
+      "id": "rigged-game",
+      "filename": "rigged-game.png",
+      "prompt": "A dark metaphorical board game of wealth, giant tilted chessboard with one side elevated, lone player standing on the losing side under a hard spotlight, premium documentary mood, tactile textures, restrained cinematic lighting, 16:9, no text"
+    },
+    {
+      "id": "wrong-rules",
+      "filename": "wrong-rules.png",
+      "prompt": "A mysterious equation wall in darkness, handwritten symbols, arrows, financial diagrams, broken classroom rules transforming into elegant systems map, premium documentary visual, dramatic but readable, black, steel blue and warm gold tones, 16:9, no text"
+    },
+    {
+      "id": "warning-tunnel",
+      "filename": "warning-tunnel.png",
+      "prompt": "A long dark tunnel with subtle floating particles and a distant warm light representing freedom, moody cinematic documentary still, suspenseful atmosphere, deep contrast, filmic grain, 16:9, no text"
+    },
+    {
+      "id": "childhood-messages",
+      "filename": "childhood-messages.png",
+      "prompt": "Layered childhood money messages, family dining table, school notebooks, societal posters, subtle ghosted words and symbols in the background, Indian middle-class atmosphere, premium documentary still, dark warm palette, 16:9, no text"
+    },
+    {
+      "id": "self-made-mosaic",
+      "filename": "self-made-mosaic.png",
+      "prompt": "A refined documentary mosaic of self-made success archetypes, silhouettes of iconic founders and entrepreneurs, elegant statistical mood, blue-black background, gold accents, premium investigative documentary style, 16:9, no text, no logos"
+    },
+    {
+      "id": "salary-equation",
+      "filename": "salary-equation.png",
+      "prompt": "Cold institutional education-to-job pipeline, graduation cap, office cubicles, rigid arrows, salary equation metaphor, premium documentary still, restrained design, deep blues, desaturated neutrals, 16:9, no text"
+    },
+    {
+      "id": "time-vs-salary",
+      "filename": "time-vs-salary.png",
+      "prompt": "A dramatic time versus salary metaphor, giant clock face merged with payroll rows and life calendar pages, premium finance documentary style, dark background, gold accents, cinematic lighting, 16:9, no text"
+    },
+    {
+      "id": "young-millionaires",
+      "filename": "young-millionaires.png",
+      "prompt": "A dark skyline ladder metaphor for wealth acceleration, age markers implied through stages of life, lone climber moving upward, premium documentary mood, cinematic shadows and depth, 16:9, no text"
+    },
+    {
+      "id": "market-value-network",
+      "filename": "market-value-network.png",
+      "prompt": "A network of ordinary people connected by glowing value lines, purchases, demand, and market signals flowing through a city grid, premium business documentary visual, dark navy and gold palette, cinematic, 16:9, no text"
+    },
+    {
+      "id": "hard-work-vs-value",
+      "filename": "hard-work-vs-value.png",
+      "prompt": "Split-screen metaphor of physical labor versus economic valuation, one side exhausted manual worker, other side accountant with ledgers and analysis, not disrespectful, premium documentary realism, moody balanced lighting, 16:9, no text"
+    },
+    {
+      "id": "problem-solution-engine",
+      "filename": "problem-solution-engine.png",
+      "prompt": "A symbolic machine that converts broken problems into flowing value, gears, arrows, glowing pathways, premium finance documentary metaphor, dark industrial elegance, cinematic grain, 16:9, no text"
+    },
+    {
+      "id": "scale-ladder",
+      "filename": "scale-ladder.png",
+      "prompt": "Visual ladder of scale from small restaurant to franchise network to global software platform, premium documentary infographic mood, cinematic realism, dark restrained palette, elegant composition, 16:9, no text"
+    },
+    {
+      "id": "freedom-not-money",
+      "filename": "freedom-not-money.png",
+      "prompt": "A contemplative figure overlooking an open horizon at dawn, freedom rather than luxury, premium documentary still, calm cinematic atmosphere, deep blues slowly warming to gold, textured realism, 16:9, no text"
+    },
+    {
+      "id": "closing-horizon",
+      "filename": "closing-horizon.png",
+      "prompt": "Minimal cinematic closing horizon, warm light breaking through a dark landscape, hopeful but restrained, premium documentary style, tactile grain, deep atmosphere, 16:9, no text"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "project": "stock-market-dark-documentary",
+    "size": "1536x1024",
+    "default_model": "z-image-turbo",
+    "estimated_cost_usd": 0.36,
+    "notes": "4 hero stills at flux-2-pro, 20 support stills at z-image-turbo"
+  },
+  "assets": [
+    {
+      "id": "lie-of-safety",
+      "filename": "lie-of-safety.png",
+      "model": "flux-2-pro",
+      "prompt": "Ultra realistic cinematic night scene, lone retail investor in a dark apartment facing a towering stock ticker wall through glass, city lights blurred, deep black shadows, cold blue and aged gold lighting, premium finance documentary still, tactile grain, 16:9, no text"
+    },
+    {
+      "id": "money-dies-in-silence",
+      "filename": "money-dies-in-silence.png",
+      "prompt": "Ultra realistic close-up of cash and savings papers slowly fading under heat-like distortion, subtle inflation metaphor, dark desk, moody blue-black palette, realistic paper texture, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "invest-or-fall-behind",
+      "filename": "invest-or-fall-behind.png",
+      "prompt": "Ultra realistic smartphone finance app reflected in anxious eyes, social media trading hype floating out of focus around the frame, modern urban darkness, psychological tension, premium documentary style, 16:9, no text"
+    },
+    {
+      "id": "the-promise",
+      "filename": "the-promise.png",
+      "prompt": "Ultra realistic cinematic image of a polished brokerage app interface glow illuminating a hand reaching toward the screen, seductive and clean but slightly ominous, dark luxury finance aesthetic, 16:9, no text"
+    },
+    {
+      "id": "owning-the-machine",
+      "filename": "owning-the-machine.png",
+      "prompt": "Ultra realistic abstract financial machine, glass trading screens, exchange lights, ownership nodes and capital flows inside a dark metallic chamber, premium business documentary still, 16:9, no text"
+    },
+    {
+      "id": "price-is-not-value",
+      "filename": "price-is-not-value.png",
+      "prompt": "Ultra realistic split composition, one side calm business fundamentals documents, other side violent candlestick volatility and crowd silhouettes, dark navy palette with gold and red accents, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "auction-of-emotion",
+      "filename": "auction-of-emotion.png",
+      "model": "flux-2-pro",
+      "prompt": "Ultra realistic dark trading hall transformed into an emotional auction, blurred faces, glowing green and red candles suspended in air, one person buying hope, another losing it, cinematic depth, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "greed-fear-herd",
+      "filename": "greed-fear-herd.png",
+      "prompt": "Ultra realistic crowd of investors moving together toward a bright green screen while shadows behind them fall into darkness, herd mentality metaphor, premium finance documentary still, 16:9, no text"
+    },
+    {
+      "id": "when-the-machine-breaks",
+      "filename": "when-the-machine-breaks.png",
+      "prompt": "Ultra realistic catastrophic stock market control room, shattered confidence mood, giant red market screens reflecting on worried faces, cinematic smoke and darkness, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "crash-1929",
+      "filename": "crash-1929.png",
+      "prompt": "Ultra realistic historical finance scene inspired by 1929 panic, men in dark coats outside a stock exchange under rain and hard shadows, restrained period detail, premium documentary realism, 16:9, no text"
+    },
+    {
+      "id": "black-monday-dotcom",
+      "filename": "black-monday-dotcom.png",
+      "prompt": "Ultra realistic composite finance history frame, old trading floor panic dissolving into glowing dot-com era screens and overvalued internet dream imagery, dark premium documentary style, 16:9, no text"
+    },
+    {
+      "id": "crash-2008",
+      "filename": "crash-2008.png",
+      "model": "flux-2-pro",
+      "prompt": "Ultra realistic emotional scene of a family at a kitchen table with foreclosure papers, laptop showing market collapse, muted blue-gray palette, subtle financial dread, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "pandemic-panic",
+      "filename": "pandemic-panic.png",
+      "prompt": "Ultra realistic empty city and home office combined with violent red stock screens, pandemic uncertainty mood, cold light, deep shadows, premium finance documentary still, 16:9, no text"
+    },
+    {
+      "id": "meme-stock-euphoria",
+      "filename": "meme-stock-euphoria.png",
+      "prompt": "Ultra realistic chaotic social-media-fueled trading scene, young retail traders lit by meme imagery and green candles, euphoric but unstable atmosphere, premium documentary realism, 16:9, no text"
+    },
+    {
+      "id": "human-cost",
+      "filename": "human-cost.png",
+      "model": "flux-2-pro",
+      "prompt": "Ultra realistic intimate portrait of an exhausted retail investor alone at night, red market reflections on face, phone in hand, shame and sleeplessness, premium cinematic documentary still, 16:9, no text"
+    },
+    {
+      "id": "house-advantage",
+      "filename": "house-advantage.png",
+      "prompt": "Ultra realistic contrast between institutional trading infrastructure and a lone retail investor with a phone, data center glow versus bedroom darkness, premium finance documentary still, 16:9, no text"
+    },
+    {
+      "id": "media-theatre",
+      "filename": "media-theatre.png",
+      "prompt": "Ultra realistic collage of finance anchors, social media alerts, thumbnails, and breaking news glow surrounding a viewer in darkness, manufactured urgency mood, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "manipulation",
+      "filename": "manipulation.png",
+      "prompt": "Ultra realistic dark boardroom with hidden hands moving glowing stock lines like marionette strings, subtle market manipulation metaphor, premium investigative documentary still, 16:9, no text"
+    },
+    {
+      "id": "leverage",
+      "filename": "leverage.png",
+      "prompt": "Ultra realistic person standing at the edge of a financial cliff made of stacked candlesticks and borrowed money documents, one step from collapse, dark cinematic lighting, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "day-trading",
+      "filename": "day-trading.png",
+      "prompt": "Ultra realistic dark room filled with flashing monitors, energy drink, shaking hand over keyboard, day trading as modern gambling atmosphere, premium documentary realism, 16:9, no text"
+    },
+    {
+      "id": "bubble-pattern",
+      "filename": "bubble-pattern.png",
+      "prompt": "Ultra realistic elegant bubble metaphor, glowing asset bubble rising beautifully over a city before cracking from within, dark premium finance documentary still, 16:9, no text"
+    },
+    {
+      "id": "why-retail-loses",
+      "filename": "why-retail-loses.png",
+      "prompt": "Ultra realistic split scene showing retail investor entering late into a crowded rally and exiting alone into darkness during a selloff, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "realistic-profitability",
+      "filename": "realistic-profitability.png",
+      "prompt": "Ultra realistic calm disciplined investor desk, handwritten risk rules, diversified charts, emergency fund notes, morning light replacing darkness, premium documentary still, 16:9, no text"
+    },
+    {
+      "id": "final-truth",
+      "filename": "final-truth.png",
+      "prompt": "Ultra realistic final philosophical finance frame, cold market horizon with a lone figure watching distant glowing exchange towers, dark atmosphere with a restrained dawn edge, premium cinematic documentary still, 16:9, no text"
+    }
+  ]
+}

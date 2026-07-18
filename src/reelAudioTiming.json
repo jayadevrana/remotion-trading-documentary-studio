@@ -1,0 +1,61 @@
+{
+  "fps": 60,
+  "targetFrames": 3600,
+  "totalFrames": 3600,
+  "scenes": [
+    {
+      "id": "hook",
+      "audioFile": "audio/reel-scenes/hook.wav",
+      "audioDurationSeconds": 7.76,
+      "audioFrames": 466,
+      "durationInFrames": 476,
+      "caption": "Opening sequence with chart structure and targets visible.",
+      "narration": "Most trading indicators look perfect after the move is gone. This one keeps the setup readable while price is still moving."
+    },
+    {
+      "id": "authority",
+      "audioFile": "audio/reel-scenes/authority.wav",
+      "audioDurationSeconds": 8.88,
+      "audioFrames": 533,
+      "durationInFrames": 543,
+      "caption": "Gold, fifteen minute chart. Entries, structure, and targets stay visible.",
+      "narration": "This is gold on the fifteen minute chart, and the strategy is plotting entries, structure, and targets directly on the screen. You are not guessing where the logic is coming from."
+    },
+    {
+      "id": "bullish",
+      "audioFile": "audio/reel-scenes/bullish.wav",
+      "audioDurationSeconds": 6.4,
+      "audioFrames": 384,
+      "durationInFrames": 394,
+      "caption": "Long confirmations stack as the move trends higher.",
+      "narration": "On the long side, confirmations stack as price trends higher. It keeps continuation clean and readable."
+    },
+    {
+      "id": "bearish",
+      "audioFile": "audio/reel-scenes/bearish.wav",
+      "audioDurationSeconds": 9.2,
+      "audioFrames": 553,
+      "durationInFrames": 563,
+      "caption": "Momentum flips. The sell side takes over fast.",
+      "narration": "Then when momentum flips, the sell side takes over fast. The short marker, breakdown, and target print all land in one clean sequence."
+    },
+    {
+      "id": "report",
+      "audioFile": "audio/reel-scenes/report.wav",
+      "audioDurationSeconds": 10.16,
+      "audioFrames": 610,
+      "durationInFrames": 622,
+      "caption": "Visible report: 122 closed trades, 72.95 percent profitable, 3.25 profit factor.",
+      "narration": "And when the strategy report appears, the recording shows one hundred twenty two closed trades, seventy two point nine five percent profitable trades, and a profit factor of three point two five."
+    },
+    {
+      "id": "cta",
+      "audioFile": "audio/reel-scenes/cta.wav",
+      "audioDurationSeconds": 14.64,
+      "audioFrames": 879,
+      "durationInFrames": 1002,
+      "caption": "Closing segment stays on the recorded trade list.",
+      "narration": "If you want a free trial, text or WhatsApp plus one, six seven two, three six eight, one seven eight seven. The WhatsApp link is in the description and pinned comment. We also build custom Pine Script tools for traders who want something tailored."
+    }
+  ]
+}

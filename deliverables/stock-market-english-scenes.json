@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "project": "stock-market-english-150-documentary",
+    "title": "Who Really Wins In The Stock Market?",
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "fps": 30,
+    "voice_speed": 1.0
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "The Lie Of Safety",
+      "kicker": "Cold Open",
+      "caption": "Sold as safety. Felt as pressure.",
+      "visualMode": "thesis",
+      "narration": "The stock market is sold as one of the most responsible things an adult can do. Build wealth. Secure your future. Beat inflation. Retire with dignity. It sounds rational. It sounds mature. But for millions of ordinary people, the market does not feel like security. It feels like pressure. Quiet pressure at first. Then constant pressure. The feeling that if you are not investing, you are not just standing still. You are falling behind."
+    },
+    {
+      "id": "s02",
+      "title": "Money Dies In Silence",
+      "kicker": "Pressure",
+      "caption": "Cash loses slowly. Fear arrives quickly.",
+      "visualMode": "proof",
+      "narration": "The darkest part is that money rarely dies dramatically. It dies silently. A little less buying power. A little more rent. A little more food. A little more pressure on savings that were supposed to feel safe. That is why investing gets framed less like an option and more like self-defense. Not because everyone loves the market. But because inflation makes patience feel like punishment. The machine begins before people even understand what they are stepping into."
+    },
+    {
+      "id": "s03",
+      "title": "Invest Or Fall Behind",
+      "kicker": "Urgency",
+      "caption": "A financial message disguised as a threat.",
+      "visualMode": "kinetic",
+      "narration": "Modern finance culture has a brutal sentence hidden inside polite advice. Invest or be left behind. It sounds helpful. But psychologically, it is a threat. It carries comparison, shame, urgency, and panic. You scroll for ten minutes and see profits, retirement charts, dip-buying slogans, and stories of people who supposedly figured it all out. Suddenly doing nothing feels irresponsible. And once the fear of being late enters the story, the market stops being a place of analysis. It becomes a place of urgency."
+    },
+    {
+      "id": "s04",
+      "title": "The App",
+      "kicker": "Seduction",
+      "caption": "Ease is part of the trap.",
+      "visualMode": "seduction",
+      "narration": "Then the market shows you its most attractive face. A clean app. Smooth charts. Green numbers. Instant access. Fractional shares. Zero commissions. It feels democratic. It feels frictionless. Like the gates of wealth have finally been opened to everyone. And to be fair, some of that promise is real. The problem is not that the market offers access. The problem is that access arrives packaged like entertainment. And entertainment changes the way people approach risk."
+    },
+    {
+      "id": "s05",
+      "title": "Owning A Piece",
+      "kicker": "Mechanics",
+      "caption": "Ownership is simple. Price is not.",
+      "visualMode": "mechanism",
+      "narration": "At its simplest, a stock is a claim on a business. A company issues shares. Investors buy them. Exchanges connect buyers and sellers. Brokers provide access. In theory, the price reflects what the market thinks that business is worth. That is the clean version. The version from textbooks. But the moment a stock begins trading, it stops living in theory. It enters a live auction of expectation, liquidity, narrative, and emotion. And that is where the real documentary begins."
+    },
+    {
+      "id": "s06",
+      "title": "Price Is Not Value",
+      "kicker": "Reframe",
+      "caption": "Value moves slowly. Price moves instantly.",
+      "visualMode": "contrast",
+      "narration": "Over long periods, business quality matters. Earnings, cash flow, margins, products, leadership. But in the short run, price often reacts less to reality than to belief. If the crowd feels euphoric, price can run far ahead of value. If the crowd feels terror, price can collapse far below calm analysis. That is why the market can feel irrational even when the structure is logical. Price is not always a truth. Often it is just the current emotional agreement between fear and hope."
+    },
+    {
+      "id": "s07",
+      "title": "The Auction Of Emotion",
+      "kicker": "Psychology",
+      "caption": "Every candle contains a human feeling.",
+      "visualMode": "thesis",
+      "narration": "A green candle is never just a green candle. Somewhere inside it is relief, greed, fear of missing out, or the feeling that this might be the move that changes a life. A red candle is not just loss. It can be panic, guilt, forced selling, margin pressure, or a delayed realization that too much risk was taken. The market is often described as a machine of information. But to the people inside it, it can feel more like an auction of emotion."
+    },
+    {
+      "id": "s08",
+      "title": "Fear And Greed",
+      "kicker": "Instinct",
+      "caption": "The oldest forces are still in charge.",
+      "visualMode": "kinetic",
+      "narration": "Fear and greed are such familiar phrases that people stop respecting them. But they matter because they are primitive. Greed says this can still go higher. Fear says everything is about to break. And in a market where thousands of participants are responding to those instincts at the same time, price starts to look less like analysis and more like emotional weather. The structure is modern. The software is modern. The instincts are ancient."
+    },
+    {
+      "id": "s09",
+      "title": "Herd Mentality",
+      "kicker": "Crowd",
+      "caption": "Belonging can feel like intelligence.",
+      "visualMode": "impact",
+      "narration": "Herd mentality is powerful because it does not feel like weakness while it is happening. It feels like belonging. It feels like confirmation. It feels like proof that you are on the right side of history. That is why bubbles become so seductive. The rising price appears to validate the story. The crowd becomes the evidence. And once people start confusing popularity with truth, they stop asking whether the move still makes sense. They start asking whether they are too late."
+    },
+    {
+      "id": "s10",
+      "title": "The First Crack",
+      "kicker": "Fragility",
+      "caption": "Confidence breaks before price finishes falling.",
+      "visualMode": "proof",
+      "narration": "Every market collapse starts with a small break in confidence. A narrative gets questioned. A weak number appears. A liquidity problem shows up. Or a price finally outruns the fantasy holding it up. At first the damage looks manageable. Then it spreads. Because markets are not just measuring value. They are measuring confidence. And once confidence starts leaking, even strong hands begin to move differently. Crashes are never only about price. They are about the moment collective certainty turns into doubt."
+    },
+    {
+      "id": "s11",
+      "title": "1929",
+      "kicker": "History",
+      "caption": "Speculation always thinks it is new.",
+      "visualMode": "history",
+      "narration": "The crash of 1929 is remembered for scale, but it matters because the emotional structure still feels familiar. Easy confidence. Leverage. A sense that progress had unlocked a new era. Then a reversal. Then disbelief. Then panic. Then the awful realization that a market built on confidence can punish optimism with shocking speed. Every generation believes it has better information and better systems. And every generation still discovers that speculation can wear modern clothes while behaving exactly the same."
+    },
+    {
+      "id": "s12",
+      "title": "1987",
+      "kicker": "Speed",
+      "caption": "Panic can move faster than understanding.",
+      "visualMode": "history",
+      "narration": "Black Monday showed another kind of terror. Speed. One of the frightening truths of markets is that people often assume they will have time to think when things get ugly. But crashes do not always honor that fantasy. Sometimes price moves first and meaning arrives later. That speed changes behavior. It compresses decision-making. It punishes hesitation. And it reminds everyone that liquidity feels abundant right up until the moment everyone wants it at once."
+    },
+    {
+      "id": "s13",
+      "title": "Dot-Com",
+      "kicker": "Seduction",
+      "caption": "A real future can still create fake prices.",
+      "visualMode": "history",
+      "narration": "The dot-com bubble was dangerous because the underlying dream was not absurd. The internet really was transformative. The world really was changing. That is what made the mispricing so seductive. When genuine innovation meets public excitement, discipline becomes harder to maintain. Price begins feeding on possibility rather than proof. And when future potential gets valued as if it has already happened, the distance between dream and reality becomes a place where capital goes to disappear."
+    },
+    {
+      "id": "s14",
+      "title": "2008",
+      "kicker": "Human Cost",
+      "caption": "Financial pain becomes household pain.",
+      "visualMode": "impact",
+      "narration": "The 2008 financial crisis forced people to confront what market collapse actually means outside a screen. Jobs disappeared. Retirement plans cracked. Homes were lost. Trust broke. This is what makes market documentaries powerful when they stop talking like charts are the full story. The real damage happens in kitchens, in silence, in delayed plans, in marriages under pressure, and in years of caution that linger long after price has recovered. Markets may fall in percentages. Families absorb that fall in years."
+    },
+    {
+      "id": "s15",
+      "title": "2020",
+      "kicker": "Whiplash",
+      "caption": "Panic is brutal. Reversal is crueler.",
+      "visualMode": "history",
+      "narration": "March 2020 showed the market at its most psychologically confusing. Panic came fast. Even strong assets sold off. Nobody knew the depth of the damage. Then, with almost insulting speed, recovery arrived. That kind of whiplash can be worse than panic itself. Because the investor who sold in fear is left with a second punishment. Regret. The market is uniquely effective at making people feel wrong both when they act and when they hesitate. That is part of what makes it so mentally exhausting."
+    },
+    {
+      "id": "s16",
+      "title": "Meme Stocks",
+      "kicker": "Chaos",
+      "caption": "Spectacle can hide a lot of casualties.",
+      "visualMode": "impact",
+      "narration": "The meme-stock frenzy looked like rebellion, entertainment, internet culture, class anger, and mass speculation all at once. For a moment, it felt like retail had discovered power. And in isolated moments, that power looked real. But spectacle has a way of hiding the quieter reality. For every winner in the spotlight, there were late entrants, oversized positions, evaporated paper gains, and people holding stories long after the price stopped believing them. Markets are very good at turning narratives into liquidity."
+    },
+    {
+      "id": "s17",
+      "title": "The Human Cost",
+      "kicker": "Consequence",
+      "caption": "Loss is rarely just financial.",
+      "visualMode": "impact",
+      "narration": "When people say they lost money in the market, that sentence usually hides something larger. They lost sleep. They lost confidence. They lost trust in themselves. Sometimes they lost months or years of emotional focus. The worst damage is often not the first loss. It is the psychological corrosion that follows. Shame. denial. obsession. revenge trading. paralysis. The market can damage more than capital because people often attach their intelligence, their self-worth, and their future identity to outcomes they do not actually control."
+    },
+    {
+      "id": "s18",
+      "title": "Sleepless Screens",
+      "kicker": "Addiction",
+      "caption": "The market can colonize attention.",
+      "visualMode": "impact",
+      "narration": "One of the least discussed costs of the market is attention. A losing account does not stay politely inside brokerage hours. It follows people into beds, meals, conversations, workdays, and silence. Screens get unlocked again and again. Charts get checked during normal life. Plans are mentally rewritten every ten minutes. At that point, the market is no longer just a financial arena. It has become a psychological environment. And psychological environments are hard to leave once identity gets entangled with them."
+    },
+    {
+      "id": "s19",
+      "title": "Smart Money",
+      "kicker": "Structure",
+      "caption": "You do not need to be foolish to be outmatched.",
+      "visualMode": "mechanism",
+      "narration": "Can ordinary investors compete in the market? Sometimes, yes. But not on equal terms. Institutions often have deeper research, better tools, faster data, better execution, more capital, and more room to survive mistakes. Retail investors frequently arrive with a phone, fragmented conviction, and emotions. That does not make retail helpless. But it does mean the battlefield matters. If you try to compete where larger players are structurally strongest, you may not be trading against them. You may be serving them."
+    },
+    {
+      "id": "s20",
+      "title": "Media Theater",
+      "kicker": "Narrative",
+      "caption": "Certainty performs better on camera than caution.",
+      "visualMode": "proof",
+      "narration": "Financial media is useful until it becomes theater. Headlines manufacture urgency. Influencers sell confidence. Anchors perform certainty in environments where uncertainty is usually the honest answer. That creates a distorted reality. Patience looks boring. Restraint looks weak. But in markets, the most camera-friendly behavior is often the least profitable. Viewers end up buying stories because the story feels exciting, not because the asset has been understood. And once narrative takes control, discipline becomes socially uncomfortable."
+    },
+    {
+      "id": "s21",
+      "title": "Manipulation",
+      "kicker": "Unfairness",
+      "caption": "Not every move is illegal. Many are still unfair.",
+      "visualMode": "proof",
+      "narration": "Markets are not perfectly fair arenas where every participant plays with the same information, the same tools, and the same motives. Pump-and-dump schemes, selective leaks, performative expertise, coordinated hype, and quiet positioning all distort what ordinary people believe they are seeing. Not every unfair move is criminal. But naïveté about incentives is expensive. If you assume the market is a moral system, you will keep misreading it. It is not a moral system. It is an incentive system."
+    },
+    {
+      "id": "s22",
+      "title": "Leverage",
+      "kicker": "Cliff Edge",
+      "caption": "Borrowed risk destroys normal mistakes.",
+      "visualMode": "mechanism",
+      "narration": "Leverage is one of the most seductive words in finance because it compresses time. It makes small moves feel meaningful. It promises speed. But it also removes room for ordinary error. A small mistake becomes a major wound. A bad entry becomes a forced exit. A thesis that might have survived with time gets destroyed by margin before it can even be tested. People often think leverage increases intelligence because it looks aggressive. Most of the time it just accelerates weakness."
+    },
+    {
+      "id": "s23",
+      "title": "Day Trading",
+      "kicker": "Dopamine",
+      "caption": "Fast feedback can turn into financial self-harm.",
+      "visualMode": "impact",
+      "narration": "Day trading has a darker side that goes beyond losing money. It can mirror the emotional architecture of gambling. Flashing screens. instant feedback. small wins. sharp losses. the fantasy of getting it all back before the day ends. None of that means no one can trade professionally. Some people can. But the online fantasy version of day trading usually sells lifestyle before process, excitement before edge, and dopamine before discipline. That is a terrible order to learn in."
+    },
+    {
+      "id": "s24",
+      "title": "Bubble Pattern",
+      "kicker": "Cycle",
+      "caption": "Every bubble feels modern. Every emotion is old.",
+      "visualMode": "mechanism",
+      "narration": "Bubbles keep recurring because the pattern is timeless. A new dream appears. Early believers look brilliant. Skeptics look outdated. Prices rise vertically. People say this time is different. And then reality slowly or violently catches up. The details change. The emotional script does not. Human beings still want belonging, acceleration, status, and relief from ordinary financial life. That is why bubbles remain so cinematic. They are not just financial distortions. They are social confessions."
+    },
+    {
+      "id": "s25",
+      "title": "The Retail Disadvantage",
+      "kicker": "Behavior",
+      "caption": "Most losses are behavioral before they are analytical.",
+      "visualMode": "contrast",
+      "narration": "Retail investors often lose in a painfully predictable way. They enter after a story has become socially validated. They take too much size because the narrative feels powerful. They freeze when price turns against them because risk was never defined in the first place. Then they exit in fear and miss the recovery because trust has collapsed. The tragedy is that this pattern can happen without stupidity. It only requires urgency, noise, and a missing process. The market is very unforgiving toward emotional improvisation."
+    },
+    {
+      "id": "s26",
+      "title": "What Actually Works",
+      "kicker": "Reality",
+      "caption": "Profitability begins with survival.",
+      "visualMode": "calm",
+      "narration": "This is the part that usually disappoints people because it is not cinematic. Real profitability starts with survival. Emergency cash so you are not forced to sell. Position sizing so a mistake remains a mistake instead of a catastrophe. Low-cost diversification if you do not have a proven edge. Time horizon that fits your actual life. And a process written down before emotion gets a vote. None of this is sexy. That is exactly why it works more often."
+    },
+    {
+      "id": "s27",
+      "title": "Survival First",
+      "kicker": "Protection",
+      "caption": "A stable investor makes better decisions.",
+      "visualMode": "calm",
+      "narration": "Ordinary investors talk constantly about returns and not enough about fragility. But fragility decides behavior. If one drawdown can wreck your month, your decisions will not stay rational for long. If one leveraged trade can disrupt your rent, you are not investing. You are negotiating with panic. This is why survival is not a boring precondition. It is the real edge. The investor who can stay calm longer is already playing a different game from the investor who needs immediate relief."
+    },
+    {
+      "id": "s28",
+      "title": "The Long-Term Edge",
+      "kicker": "Patience",
+      "caption": "Time can become a structural advantage.",
+      "visualMode": "calm",
+      "narration": "One of the few true advantages available to ordinary people is time horizon. Institutions often have reporting pressure, benchmark pressure, or incentive structures that distort patience. A disciplined long-term investor with realistic expectations can avoid many of the arenas where larger players dominate. That does not mean passivity solves everything. It means patience, when paired with process, can become a real structural advantage. The market punishes impulsive participation much more often than it punishes thoughtful waiting."
+    },
+    {
+      "id": "s29",
+      "title": "If You Trade",
+      "kicker": "Humility",
+      "caption": "Trade small or do not trade at all.",
+      "visualMode": "calm",
+      "narration": "If someone insists on active trading, there is only one honest version of that conversation. Trade small. Journal every decision. Review the data. Define risk before entry. Accept that most people do not have an edge just because they have conviction. And understand that excitement is not evidence. Professionals respect the market because they know what it can do to ego. The amateur mistake is thinking passion can replace process. In markets, it usually does the opposite."
+    },
+    {
+      "id": "s30",
+      "title": "The Final Truth",
+      "kicker": "Final Truth",
+      "caption": "The market offers opportunity, never mercy.",
+      "visualMode": "thesis",
+      "narration": "The final truth is colder than most people want. The market does not care who deserves to win. Good people lose money. Bad actors can stay ahead longer than expected. Honest analysis can fail in the short term. Hype can last longer than seems rational. That is why the stock market should never be treated like a moral story. It is a machine of opportunity, but never mercy. And the people who survive it are usually not the most excited. They are the most disciplined."
+    }
+  ]
+}

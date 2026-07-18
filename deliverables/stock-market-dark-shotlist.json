@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "project": "stock-market-dark-documentary",
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "budget_tier": "low"
+  },
+  "scenes": [
+    {"id":"s01","objective":"Open on contradiction and dread.","device":"abstract_3d","method":"practical","duration_sec":16,"edit_note":"Slow push through the hero still with sparse bass hit and delayed title."},
+    {"id":"s02","objective":"Turn inflation into a personal threat.","device":"document_highlight","method":"practical","duration_sec":18,"edit_note":"Paper textures, subtle heat shimmer, highlight loss of purchasing power."},
+    {"id":"s03","objective":"Create urgency and FOMO pressure.","device":"kinetic_typography","method":"practical","duration_sec":18,"edit_note":"Short phrases only: invest, late, behind, now."},
+    {"id":"s04","objective":"Show why the market still seduces people.","device":"archive_pan","method":"practical","duration_sec":18,"edit_note":"Clean seductive app glow, then darken the frame as the narration turns."},
+    {"id":"s05","objective":"Explain stock ownership without losing tension.","device":"simplified_diagram","method":"practical","duration_sec":20,"edit_note":"Ownership arrows and exchange flow over the still image."},
+    {"id":"s06","objective":"Separate price from value.","device":"split_screen","method":"practical","duration_sec":18,"edit_note":"Left side stable documents, right side unstable candle motion."},
+    {"id":"s07","objective":"Turn the market into an emotional auction.","device":"hero_metaphor","method":"practical","duration_sec":20,"edit_note":"Hold on faces and candles; avoid over-editing."},
+    {"id":"s08","objective":"Name the emotional engine behind price action.","device":"kinetic_typography","method":"practical","duration_sec":18,"edit_note":"Greed, fear, herd, regret as staggered reveals."},
+    {"id":"s09","objective":"Set up crashes as confidence collapse.","device":"proof_collage","method":"practical","duration_sec":18,"edit_note":"Historical market visuals with tightening ambient sound."},
+    {"id":"s10","objective":"Anchor panic in 1929.","device":"archive_pan","method":"practical","duration_sec":18,"edit_note":"Slow period-photo pan with minimal typography."},
+    {"id":"s11","objective":"Show recurring bubble logic.","device":"crash_timeline","method":"practical","duration_sec":20,"edit_note":"Move from Black Monday to dot-com with escalating speed."},
+    {"id":"s12","objective":"Humanize 2008.","device":"impact_portrait","method":"practical","duration_sec":20,"edit_note":"Let the kitchen-table image breathe; minimal overlays."},
+    {"id":"s13","objective":"Capture pandemic whiplash.","device":"crash_timeline","method":"practical","duration_sec":18,"edit_note":"Red collapse -> sudden reversal energy."},
+    {"id":"s14","objective":"Show spectacle and late participation in meme mania.","device":"proof_collage","method":"practical","duration_sec":18,"edit_note":"Community energy first, late-buyer loneliness second."},
+    {"id":"s15","objective":"Expose psychological damage behind the losses.","device":"impact_portrait","method":"practical","duration_sec":20,"edit_note":"Very restrained motion, longer hold for emotional consequence."},
+    {"id":"s16","objective":"Show institutional advantage.","device":"network_map","method":"practical","duration_sec":18,"edit_note":"Map retail isolation against institutional infrastructure."},
+    {"id":"s17","objective":"Reveal media as urgency theatre.","device":"document_highlight","method":"practical","duration_sec":18,"edit_note":"Headlines and thumbnails layered carefully, not chaotically."},
+    {"id":"s18","objective":"Introduce manipulation and unfairness.","device":"hero_metaphor","method":"practical","duration_sec":18,"edit_note":"Hidden hands, marionette motion, then cut back to proof language."},
+    {"id":"s19","objective":"Make leverage feel like a cliff edge.","device":"abstract_3d","method":"practical","duration_sec":18,"edit_note":"Descending camera move and subtle bass drop."},
+    {"id":"s20","objective":"Frame day trading as dopamine architecture.","device":"kinetic_typography","method":"practical","duration_sec":18,"edit_note":"Fast rhythm, flashing screens, then sudden silence."},
+    {"id":"s21","objective":"Present the timeless bubble cycle.","device":"simplified_diagram","method":"practical","duration_sec":18,"edit_note":"Arc upward, crack, collapse, reset."},
+    {"id":"s22","objective":"Explain why retail often loses behaviorally.","device":"split_screen","method":"practical","duration_sec":20,"edit_note":"Hope entry on one side, fear exit on the other."},
+    {"id":"s23","objective":"Deliver the realistic survival framework.","device":"rule_cards","method":"practical","duration_sec":22,"edit_note":"Show one rule at a time with calmer motion and brighter grade."},
+    {"id":"s24","objective":"Land the cold final worldview shift.","device":"typography_callback","method":"practical","duration_sec":20,"edit_note":"Return to negative space and the line: opportunity, never mercy."}
+  ]
+}
